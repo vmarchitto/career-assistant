@@ -1,0 +1,134 @@
+[
+  {
+    "company_name": "WW Clyde",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/World_Wide_Web",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "WW Wheeler and Associates",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://en.wikipedia.org/wiki/World_Wide_Web",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "Wyoming Department of Environmental Quality",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 201-500 employees",
+    "website": "https://en.wikipedia.org/wiki/Wyoming",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Wyoming Public Service Commission",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Wyoming",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Yeh Associates",
+    "industry": "Geotechnical Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://en.wikipedia.org/wiki/Yeh,_Yeh",
+    "matching_majors": [
+      "Civil Engineering",
+      "Earth Sciences",
+      "Geological Engineering"
+    ]
+  },
+  {
+    "company_name": "Yellowstone National Park Lodges",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Yellowstone_(TV_series)",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Yorke Engineering",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://www.instagram.com/thisisyorke/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "Z-Craft",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Z",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Zachry Construction",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bundesliga.com/de/2bundesliga/spieltag",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "ZAP Engineering",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://en.wikipedia.org/wiki/ZAP_(software)",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "ZeroTwelve",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://www.nrl.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  }
+]

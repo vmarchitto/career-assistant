@@ -1,0 +1,22 @@
+[
+  {
+    "company_name": "Education/Instruction/Administration",
+    "industry": "University of California",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.ed.gov/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Education/Instruction/Administration - Berkeley, California, United States",
+    "industry": "University of California",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://bse.berkeley.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  }
+]
