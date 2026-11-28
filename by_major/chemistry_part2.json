@@ -1,0 +1,459 @@
+[
+  {
+    "company_name": "Tusaar Inc.",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://tusaar.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Twist Bioscience",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.twistbioscience.com/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "United Dredging Corporation",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://uniteddredging.com/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Upper Gunnison River Water Conservancy District",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://ugrwcd.org/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "USA Environmental LP",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.usatampa.com/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Velentium, LLC",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://velentiummedical.com/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "Veolia",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Public company with 11-50 employees",
+    "website": "https://www.veolia.com/en",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Veolia Water Tech",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://watertech.veolia.com/global/en",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Verdant Technologies",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://app.verdant.co/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "Vibrantz Technologies",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 5001-10,000 employees",
+    "website": "https://en.wikipedia.org/wiki/Vibrantz_Technologies",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Vista GeoSciences LLC",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://vistageoscience.com/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Vista Life Sciences",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://vistalifesciences.com/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "Vitro Biopharma",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://www.vitrobiopharma.com/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "VitroLabs Inc",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://vitrolabs.com/technology/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "VRL-Eurofins",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.eurofins.com/en/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "Vyriad",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://vyriad.com/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "Walsh Environmental LLC",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.instagram.com/walshuniversity/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "WanHua Chemical Group CO.,LTD.",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.zillow.com/fl/land/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Waste Connections",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.m.wikipedia.org/wiki/Waste",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Water Remediation Technology",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://en.m.wikipedia.org/wiki/Water",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Waters Corporation",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Public company with 5001-10,000 employees",
+    "website": "https://en.wikipedia.org/wiki/Waters_Corporation",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "WaterTectonics",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://www.microsoft.com/en-us/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Weaver Consultants Group",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://weavergame.org/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Weiss Associates",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.weissbros.com/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "WEST Consultants, Inc.",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://en.m.wikipedia.org/wiki/West",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "West River Pharma, Device, and Technology, LLC",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://en.m.wikipedia.org/wiki/West",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "Western Resource Advocates",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 51-200 employees",
+    "website": "https://en.m.wikipedia.org/wiki/Western_(genre)",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Western Stream Works",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://en.m.wikipedia.org/wiki/Western_(genre)",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Weston Solutions, Inc.",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://en.m.wikipedia.org/wiki/Weston,_Florida",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "White Sands Water Engineers",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/White",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Wilson and Company",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Wilson_Sporting_Goods",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Woodard & Curran",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/Woodard",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Wright Water Engineers",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Wright_brothers",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Xelay Acumen",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": null,
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "Zimmer Biomet",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.m.wikipedia.org/wiki/Dick_Zimmer",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "ZimVie",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://www.zimvie.com/en",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "ZYP Coatings, Inc.",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": null,
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+]

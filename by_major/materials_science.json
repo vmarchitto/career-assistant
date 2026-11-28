@@ -1,0 +1,726 @@
+[
+  {
+    "company_name": "AAA Molybdenum Products, Inc.",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "http://www.aaamolybdenum.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Agrium",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Agrium",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Air Liquide America",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://usa.airliquide.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Air Products",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.airproducts.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "AirCapture",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://aircapture.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Arcwood Environmental LLC",
+    "industry": "Chemicals, Transportation & Logistics, Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.arcwoodenviro.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Birck Engineering",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "http://www.birckengineering.com/feed/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Bolder Industries",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bolderindustries.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Buckman",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.buckman.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Cabot Corporation",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cabotcorp.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Birck Engineering",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "http://www.birckengineering.com/feed/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Bolder Industries",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bolderindustries.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Buckman",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.buckman.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Cabot Corporation",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cabotcorp.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Clariant North America",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Clariant",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Clean Chemistry",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://cleanchemi.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Clean Harbors",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.cleanharbors.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Colorado Biofactory, Inc.",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://aventure.vc/companies/colorado-biofactory-monument-co-us/website",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Corden Pharma Colorado",
+    "industry": "Chemicals, Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 501-1000 employees",
+    "website": "https://cordenpharma.com/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Cytec Industries Inc.",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Cytec_Industries",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Electrosynthesis Company",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://electrosynthesis.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Ellipse Analytics",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://www.ellipseanalytics.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Enchem America, Inc.",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://enchem.com/eng/sub.php?menukey=490",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "GeoTree Solutions",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://www.cs-nri.com/brands/geotree-solutions/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Global Tungsten & Powders Corp.",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Global_Tungsten_&_Powders_Corp.",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Integrity Biochem",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://integritybiochem.com/about/about-us/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "INVISTA",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Invista",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Koch Industries",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Koch,_Inc.",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Lightwave Logic",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.lightwavelogic.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Lithium Americas",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "51-200 employees",
+    "website": "https://en.wikipedia.org/wiki/Lithium_Americas",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Matereal",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://matereal.net/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Metal Solutions LLC",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 11-50 employees",
+    "website": "https://www.metalsolutionsllc.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Mint & Tidy",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.tidymint.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "MLC",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.themlc.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Molecular Products",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://www.molecularproducts.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Momentive Technologies",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 501-1000 employees",
+    "website": "https://www.momentive.com/en-us",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Moral Fiber",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://moral-fiber.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "NanoSpray, LLC",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://www.nanoojas.net/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Nutrien",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www.nutrien.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Ohr Synbiosis",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://ohr.xyz/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Olin Chlor Alkali",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://olinchloralkali.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Olin Corporation",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Olin_Corporation",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "OSM Shield",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://www.osmshield.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Pall Corporation",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Pall_Corporation",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Phia Lab",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": null,
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Rocky Mountain Air Solutions (formerly United States Welding, Inc.)",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://rockymountainair.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Rocky Mountain Reagents",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://rmreagents.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "SCHOTT North America, Inc.",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www.schott.com/en-us",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Searles Valley Minerals",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 501-1000 employees",
+    "website": "https://en.wikipedia.org/wiki/Searles_Valley_Minerals",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Skyline Assayers and Laboratories",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.skylinelabs.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Solid Power Battery",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Public company with 201-500 employees",
+    "website": "https://www.solidpowerbattery.com/all-solid-state-batteries/default.aspx",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Sustainable Chemicals, LLC",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://sust-chem.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Swarco",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.swarco.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Synthio Chemicals",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://www.synthiochem.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "TDA Research",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://www.tda.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Total Petrochemicals USA",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/TotalEnergies_Petrochemicals_&_Refining_USA",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Tusaar Inc.",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://tusaar.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Vibrantz Technologies",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 5001-10,000 employees",
+    "website": "https://en.wikipedia.org/wiki/Vibrantz_Technologies",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "WanHua Chemical Group CO.,LTD.",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.zillow.com/fl/land/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "ZYP Coatings, Inc.",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": null,
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  }
+]
