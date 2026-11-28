@@ -1,0 +1,2822 @@
+[
+  {
+    "company_name": "Saint-Gobain",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.saint-gobain.com/en",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sallyport Global Holdings",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.linkedin.com/company/sallyport-global/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Saltenna",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.saltenna.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Samasource",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Sama_(company)",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Samson Energy",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": null,
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Samsung Austin Semiconductor",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://semiconductor.samsung.com/sas/company/austin/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Samtec",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.samtec.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "San Juan Construction, Inc.",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sanjuanconstruction.com/about-us/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sana Health",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sana.io/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Healthcare/Medical Equipment",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.dotmed.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Sandia National Laboratories",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Sandia_National_Laboratories",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Sandoz",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sandoz.com/us-en/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "SandRidge Energy, Inc.",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/SandRidge_Energy",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Sandvik Materials Technology",
+    "industry": "Metals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.home.sandvik/en/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Mechanical Engineering",
+      "Metallurgical & Materials Engineering"
+    ]
+  },
+  {
+    "company_name": "Sandvik Mining & Rock Solutions",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.mining.sandvik/en",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Public company with 10,001+ employees",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://rankings.newsweek.com/worlds-greenest-companies-2026/10001-employees",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Sanford Health",
+    "industry": "Healthcare/Medical Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sanfordhealth.org/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biomedical Engineering",
+      "Health Sciences"
+    ]
+  },
+  {
+    "company_name": "Santa Clara Valley Water District",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.valleywater.org/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Sanyo Special Steel Co., Ltd.",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sanyo-steel.co.jp/english/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Metals",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.unknownmetal.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SAP",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sap.com/index.html",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "High Tech/Information Technology - Newtown Square, Pennsylvania, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.linkedin.com/company/techguides-inc",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Sarasota County Government",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency",
+    "website": "https://www.scgov.net/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Saronic Technologies",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.linkedin.com/company/saronic-technologies",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Aerospace/Defense/Aviation",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://applied-ad.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Sartorius TCC Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sartorius.com/en/company",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Saudi Aramco",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Saudi_Aramco",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Saulsbury Industries",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.salsburyindustries.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Savage Arms",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Savage_Arms",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Manufacturing/Machinery/Equipment",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://hgrinc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Savage Services",
+    "industry": "Transportation & Logistics",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://savageco.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Savannah River National Laboratory",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Savannah_River_National_Laboratory",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Savci Environmental Technologies, LLC",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "http://www.savci-env.com/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "SBE",
+    "industry": "Electronics/Electrical Components",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sbe.org/",
+    "matching_majors": [
+      "Computer Engineering",
+      "Electrical Engineering",
+      "Physics"
+    ]
+  },
+  {
+    "company_name": "SBSA",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://home.sbsalaboratory.tech/en",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Scale AI",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://en.wikipedia.org/wiki/Scale_AI",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Scepter",
+    "industry": "Metals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.scepter.com/products/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Mechanical Engineering",
+      "Metallurgical & Materials Engineering"
+    ]
+  },
+  {
+    "company_name": "Schnabel",
+    "industry": "Geotechnical Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://schnabel.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Earth Sciences",
+      "Geological Engineering"
+    ]
+  },
+  {
+    "company_name": "Schnabel Geostructural Design & Construction",
+    "industry": "Geotechnical Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://schnabel.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Earth Sciences",
+      "Geological Engineering"
+    ]
+  },
+  {
+    "company_name": "Schneider Electric",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.se.com/ww/en/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Schnitzer Steel Industries",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Radius_Recycling",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Schott",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.schott.com/en-us",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Schreiber Foods, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.schreiberfoods.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "SCI Engineering",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sciengineering.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Science Interactive Group",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.scienceinteractive.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Science Matters in America",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sciencematters.site/",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "Science Matters In Colorado LLC",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sciencematters.site/",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "Science Solutions Inc.",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sciencesolutionsllc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mining - Charleston, West Virginia, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "http://www.dep.wv.gov/dmr/Pages/default.aspx",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Scientific Drilling Int'l",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://scientificdrilling.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Scientific Forming Technologies Corporation",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.deform.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Sciex",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://shop.sciex.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Biotech/BioEng/Pharmaceuticals",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://biotechclinical.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Sciforma Corporation",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.planview.com/acquisitions/about-sciforma/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Scitor Corporation",
+    "industry": "Military",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.linkedin.com/company/scitor-corporation",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Scope Technologies, Inc",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://myscopetech.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Scout Clean Energy",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.scoutcleanenergy.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Scribe-X",
+    "industry": "Healthcare/Medical Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://scribe-x.com/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biomedical Engineering",
+      "Health Sciences"
+    ]
+  },
+  {
+    "company_name": "SCS Engineers",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.scsengineers.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SDL International",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sdl-i.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "SDS Automation",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sdsautomation.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Manufacturing/Machinery/Equipment",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://hgrinc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Seagate Technology",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.seagate.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SEAKR Engineering",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://seakr.com/",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Searing Industries",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.searingindustries.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "SedimentIQ",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.linkedin.com/company/sedimentiq",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mining",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://miningtech.fandom.com/wiki/Unknown",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Sedna",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://support.sedna.com/hc/en-us/articles/41855847927703-Sedna-Login-Help-How-to-Sign-In-Desktop-Mobile-SSO",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mining",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://miningtech.fandom.com/wiki/Unknown",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Seed Innovations",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://seed-innovations.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "High Tech/Information Technology",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://unknown-technology.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SeeUnity",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://seeunity.com/products/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Segrity",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sourceunknown.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SEH, Inc.",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sehinc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Construction Engineering",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Construction_engineering",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Seismic Surveys",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.seismicsurveys.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Civil Engineering",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.civilengineeringweb.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SEL Engineering Services, Inc.",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://selinc.com/services/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Selcon Utility, Inc.",
+    "industry": "Utilities/Power",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://selcon.us/",
+    "matching_majors": [
+      "Electrical Engineering",
+      "Energy Systems",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Select Medical",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.selectmedical.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Healthcare/Medical Equipment",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://medidepot.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Select-Arc, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://select-arc.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Senator Michael Bennet's Office",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Michael_Bennet",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Sencore",
+    "industry": "Electronics/Electrical Components",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sencore.com/",
+    "matching_majors": [
+      "Computer Engineering",
+      "Electrical Engineering",
+      "Physics"
+    ]
+  },
+  {
+    "company_name": "Senior Aerospace SSP",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://www.seniorplc.com/about-us/operating-businesses/aerospace/ssp.aspx",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Septodont",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.septodontusa.com/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "Sequenza Inc",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sequenzaglobal.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Serimax North America, LLC",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Service Employees International Union",
+    "website": "https://serimax.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Humanitarian/Non-Profits - Washington, District of Columbia, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://unitedwaynca.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Servosity",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://servosity.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Setter Roche, LLP",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.setterroche.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Legal/Law",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.law.cornell.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SEW-Eurodrive",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.seweurodrive.com/home.html",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sfile",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sfile.co/search",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SGS North America Inc.",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sgs.com/en-us/our-company/about-sgs/sgs-in-north-america",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SGS Towers",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sgs.com/en-us/our-company/about-sgs/sgs-in-north-america",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SGT",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sgtreport.com/",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "ShaleApps",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sand.shaleapps.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Shambaugh & Son",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.shambaugh.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Construction Engineering - Fort Wayne, Indiana, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://www.cityoffortwayne.in.gov/499/Engineering",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Shannon & Wilson, Inc.",
+    "industry": "Geotechnical Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Shannon_&_Wilson",
+    "matching_majors": [
+      "Civil Engineering",
+      "Earth Sciences",
+      "Geological Engineering"
+    ]
+  },
+  {
+    "company_name": "Shaw Business U.S., Inc.",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://shawinc.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Shea Homes",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Shea_Homes",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Shelby Resources, LLC",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.shalexp.com/shelby-resources-llc",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Sheridan Middle School",
+    "industry": "Electronics/Electrical Components",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sms.nlsd.k12.oh.us/",
+    "matching_majors": [
+      "Computer Engineering",
+      "Electrical Engineering",
+      "Physics"
+    ]
+  },
+  {
+    "company_name": "Sherpa 6, Inc",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sherpa6.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Private company with 51-200 employees",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://enrichlayer.com/company/size/51-200",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Sherwin-Williams",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sherwin-williams.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sherwood Design Engineers",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sherwoodengineers.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Shiver Entertainment",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.shiver.net/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Shopworks Architecture",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://shopworksarc.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "Sibelco",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sibelco.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SIEMAG TECBERG Inc.",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://de.wikipedia.org/wiki/Siemag-Tecberg-Gruppe",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Siemens Building Technologies",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Siemens_Building_Technologies",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Siemens Healthineers",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.siemens-healthineers.com/en-us",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Healthcare/Medical Equipment",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://medidepot.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Sienna Technologies, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://siennatech.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sierra Detention Systems",
+    "industry": "Military",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sierradetentionsystems.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Sierra Nevada Alliance",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sierranevadaalliance.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Environmental Resources/Water",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.eraqc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Sierra Space",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://en.wikipedia.org/wiki/Sierra_Space",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sigma Science Inc",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sigma-science.com/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Signal Energy",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.windpowerengineering.com/suppliers/signal-energy/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Signature MRI",
+    "industry": "Healthcare/Medical Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://signaturemri.com/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biomedical Engineering",
+      "Health Sciences"
+    ]
+  },
+  {
+    "company_name": "SIGNICAST CORPORATION",
+    "industry": "Banking/Finance/Accounting",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.signicast.com/",
+    "matching_majors": [
+      "Applied Mathematics",
+      "Data Science",
+      "Economics",
+      "Finance"
+    ]
+  },
+  {
+    "company_name": "Sikich",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sikich.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Silicon Mountain Technologies",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://siliconmtn.net/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Silver Bullet Water Treatment",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://rkindustries.com/what-we-do-page/water/water-treatment-and-products/silver-bullet-system/",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Silvi Group Companies",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.silvi.com/",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Simem Underground Solutions",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://simemug.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Simon Fraser University",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Simon_Fraser_University",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "SimpleRose",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://simplerose.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "High Tech/Information Technology",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://unknown-technology.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Simpson Gumpertz & Heger",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Simpson_Gumpertz_&_Heger",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Simuwatt",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.facebook.com/simuwatt/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Sinclair Oil Corporation",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Sinclair_Oil_Corporation",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Sircal Contracting",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://www.sircalcontracting.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sirko Associates, Inc.",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.linkedin.com/company/sirko-associates-inc",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "Sisecam Wyoming LLC",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://business.grchamber.com/list/member/sisecam-wyoming-llc-89",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Sisu Devices",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sisu.co/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Skelly and Loy, Inc.",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://masoncontractors.org/author/skelly-and-loy-inc/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SKF Aeroengine",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.skf.com/us/services/aeroengine-services",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Skupos",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://go.skupos.com/signup",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Sky Climber Telecom",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://skyclimber.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sky Climber Tower Solutions",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://skyclimber.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Skye Analytics, Inc.",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.skyeanalytics.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Skyhawks Sports Academy",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Skyhawks_Sports_Academy",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "Skyline Assayers and Laboratories",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.skylinelabs.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "SkyView Academy",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.skyviewacademy.org/",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "SLAC National Accelerator Laboratory",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/SLAC_National_Accelerator_Laboratory",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Slalom",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Slalom_Inc",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Sleepy Bear Mining",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sleepybearmining.com/",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Slingshot Assembly",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.youtube.com/playlist?list=PL23JxCJ9mS3644DovFMbi4qLuUn5YIBbj",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Electronics/Electrical Components - Denver, Colorado, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.elliottelectronicsupply.com/lp/electronic-component-store.php?city=Denver&state=Colorado",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Slingshot Insights",
+    "industry": "Banking/Finance/Accounting",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://www.slingshotexpertcalls.com/",
+    "matching_majors": [
+      "Applied Mathematics",
+      "Data Science",
+      "Economics",
+      "Finance"
+    ]
+  },
+  {
+    "company_name": "SMART Scholarship-for-Service Program",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Government agency",
+    "website": "https://www.smartscholarship.org/smart/en",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "Smart Wires",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.smartwires.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SMC Corporation of America",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.smcusa.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Smith Engineering",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://smithengineering.online/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Civil Engineering",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.civilengineeringweb.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Smith Seckman Reid, inc. (SSR)",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://www.ssr-inc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Smithsonian Institution",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Government/Public Sector",
+    "website": "https://en.wikipedia.org/wiki/Smithsonian_Institution",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SMX",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.smxtech.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Banking/Finance/Accounting",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.wellsfargo.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SNI Technologies",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://snitechnology.net/about-us/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Engineering & Advisory Services",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://engineering-advisory.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SOBRSafe",
+    "industry": "Electronics/Electrical Components",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sobrsafe.com/",
+    "matching_majors": [
+      "Computer Engineering",
+      "Electrical Engineering",
+      "Physics"
+    ]
+  },
+  {
+    "company_name": "Social Engine",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://socialengine.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Society for Mining, Metallurgy and Exploration, Inc.",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.smenet.org/",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Sodexo Dining",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sodexo.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Retail/Wholesale - Golden, Colorado, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.yellowpages.com/golden-co/mip/colorado-wholesale-group-562843291",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Sodexo Engineering",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sodexo.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Healthcare/Medical Equipment",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://medidepot.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Software Technology",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://unknown-technology.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "SoGnar",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.getsognar.com/ride-with-us",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "High Tech/Information Technology",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://unknown-technology.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Solana Beach Labs",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sobelabs.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "High Tech/Information Technology",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://unknown-technology.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Solar Dynamics LLC",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.solardynllc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SolarWorld",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/SolarWorld",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Manufacturing/Machinery/Equipment - Hillsboro, Oregon, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.petersoncat.com/stores/hillsboro",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Solid Power",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.solidpowerbattery.com/overview/default.aspx",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Solidyn Solutions, Inc.",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://solidyn.co/",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Solvay Chemicals",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Solvay_S.A.",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Sopheon Corporation",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Sopheon",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Sopris Learning",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.voyagersopris.com/products/reading",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "Sopris Systems",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sopristec.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "South Carolina Department of Transportation (SCDOT)",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.scdot.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Government/Public Sector",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.usa.gov/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "South Coast Air Quality Management District",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency",
+    "website": "https://www.aqmd.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "South Dakota School of Mines and Technology",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/South_Dakota_School_of_Mines_and_Technology",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "South Platte Natural Resources District",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.spnrd.org/",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Southeast Metro Stormwater Authority",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.semswa.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Southern Company",
+    "industry": "Utilities/Power",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Southern_Company",
+    "matching_majors": [
+      "Electrical Engineering",
+      "Energy Systems",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Southern Company Gas",
+    "industry": "Utilities/Power",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.southerncompanygas.com/",
+    "matching_majors": [
+      "Electrical Engineering",
+      "Energy Systems",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Southern Ionics Minerals",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://southernionics.com/",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Southern Methodist University",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Southern_Methodist_University",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "Southern Nevada Water Authority (SNWA)",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Southern_Nevada_Water_Authority",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Utilities/Power",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://learn.microsoft.com/en-us/windows/powertoys/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Southern Star Central Gas Pipeline",
+    "industry": "Utilities/Power",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://southernstar.com/",
+    "matching_majors": [
+      "Electrical Engineering",
+      "Energy Systems",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Southern Ute Growth Fund",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sugf.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Southland Contracting",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://southlandcontracting.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Southshore Environmental, Inc.",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://southshoreenv.com/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Southwest Airlines",
+    "industry": "Transportation & Logistics",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.southwest.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Southwest Energy, LLC",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://southwest-energy.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Southwest Generation",
+    "industry": "Utilities/Power",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://generation-unknown.com/search",
+    "matching_majors": [
+      "Electrical Engineering",
+      "Energy Systems",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Southwest Oilfield Products",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://swoil.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Southwest Research Institute (SwRI)",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.swri.org/about-swri",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Humanitarian/Non-Profits - San Antonio, Texas, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.globalrefuge.org/who-we-are/where-we-work/san-antonio/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Southwestern Energy Co",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Southwestern_Energy",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "sovrn Holdings",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Sovrn_Holdings",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "SPACE",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://space-unknown.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Space Applications Services NV/SA",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Space_Applications_Services",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Space Dynamics Laboratory",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Space_Dynamics_Laboratory",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Space Environment Satellite Services, University of Colorado CIR",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://spaceweather.colorado.edu/",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "Space Rig Systems Inc.",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://www.spacerig.io/",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sparkfund",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sparkfund.com/about-us",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Private company with 51-200 employees",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://enrichlayer.com/company/size/51-200",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SPARTA, Inc., A Parsons Company",
+    "industry": "Military",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/SPARTA,_Inc.",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Spartan Restoration",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://spartanrestoration.com/about-us",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sparton Medical Systems",
+    "industry": "Healthcare/Medical Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.spartanmedical.com/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biomedical Engineering",
+      "Health Sciences"
+    ]
+  },
+  {
+    "company_name": "Spatial Corporation",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.spatial.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "SPAWAR Systems Center San Diego",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Naval_Information_Warfare_Systems_Command",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Military",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://usmilitary.com/us-military-website/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Speaking Proficiency Enhancement Program",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.theworknplay.com/Work/SpeakingProficiencyEnhancementProgram",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "Spearmint Energy",
+    "industry": "Banking/Finance/Accounting",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://www.spearmintenergy.com/",
+    "matching_majors": [
+      "Applied Mathematics",
+      "Data Science",
+      "Economics",
+      "Finance"
+    ]
+  },
+  {
+    "company_name": "SPEC",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.spec.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Special Metals Corporation",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Special_Metals_Corporation",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Specialized Bicycle Components",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Specialized_Bicycle_Components",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Retail/Wholesale",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.wholesalecentral.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Specialized Engineering Services, Inc.",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.specializedengineeringservices.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Utilities/Power",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.unitedpower.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Specialized Engineering Solutions",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://specializedeng.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Specialty Products Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://specialtyproducts.co/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Spectra Energy",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Spectra_Energy",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Spectralink",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.spectralink.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Spectranetics Corporation",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.linkedin.com/company/spectranetics",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "Spectrum Aquatics",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://spectrumproducts.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Spectrum Geophysics",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://spectrum-geophysics.com/about/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Spendrup Fan Co.",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.spendrupfanco.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Manufacturing/Machinery/Equipment",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://hgrinc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Spinfusion",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.spinfusion.com/www/privacy.jsp",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Spirent Federal Systems",
+    "industry": "Electronics/Electrical Components",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.keysight.com/us/en/cmp/2026/spirent.html",
+    "matching_majors": [
+      "Computer Engineering",
+      "Electrical Engineering",
+      "Physics"
+    ]
+  },
+  {
+    "company_name": "Public company with 51-200 employees",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cience.com/companies-database/united-states/manufacturing-and-industrial/51-200-employees",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Spirit Environmental",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://www.onterris.com/who-we-are/spirit-environmental-is-onterris",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Splick.it",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://splicksound.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Splunk",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Public company",
+    "website": "https://en.wikipedia.org/wiki/Splunk",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Sporian Microsystems, Inc.",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sporian.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "High Tech/Information Technology - Lafayette, Colorado, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.lafayetteco.gov/109/Economic-Development",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SpotX",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://github.com/SpotX-Official/SpotX",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  }
+]

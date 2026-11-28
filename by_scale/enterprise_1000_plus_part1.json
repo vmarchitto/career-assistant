@@ -1,0 +1,2874 @@
+[
+  {
+    "company_name": "3D Systems",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/3D_Systems",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Biotech/BioEng/Pharmaceuticals",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://biopharmaindex.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "ABS (American Bureau of Shipping)",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/American_Bureau_of_Shipping",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Accenture",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Accenture",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "ACCO Engineered Systems",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.accoes.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "AECOM",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://aecom.com/home-2019/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Aecon Construction Group Inc",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/Aecon",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "Utilities/Power - arlington, Virginia, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.arlingtonva.us/Government/Topics/Arlington-Welcome-Kit/Utilities",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "AGC Biologics",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.agcbio.com/about",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "Agilent Technologies",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.agilent.com/en",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "AgTac Janitorial Services",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://agtac.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Air Products",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.airproducts.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Alarm.com",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/Alarm.com",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Alaska Native Tribal Health Consortium",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 1001-5000 employees",
+    "website": "https://www.anthc.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "AlixPartners",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/AlixPartners",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "alliantgroup",
+    "industry": "Banking/Finance/Accounting",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.alliantgroup.com/",
+    "matching_majors": [
+      "Applied Mathematics",
+      "Data Science",
+      "Economics",
+      "Finance"
+    ]
+  },
+  {
+    "company_name": "AltaMed Health Services Corporation",
+    "industry": "Healthcare/Medical Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www.altamed.org/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biomedical Engineering",
+      "Health Sciences"
+    ]
+  },
+  {
+    "company_name": "AM Technical Solutions",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://amts.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Amalgamated Sugar",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 1001-5000 employees",
+    "website": "https://www.amalgamatedsugar.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Amazon",
+    "industry": "Transportation & Logistics",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://amc.amazon.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "AMD Advanced Micro Devices",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www.amd.com/en.html",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Amentum",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.amentum.com/",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "American Cast Iron Pipe Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/American_Cast_Iron_Pipe_Company",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "AMG Advanced Metallurgical Group N.V.",
+    "industry": "Metals",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://amg-nv.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Mechanical Engineering",
+      "Metallurgical & Materials Engineering"
+    ]
+  },
+  {
+    "company_name": "Amrize",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.amrize.com/us/en/amrize-homepage.html",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "AngloGold Ashanti",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/AngloGold_Ashanti",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Anheuser-Busch",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.anheuser-busch.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Energy - Oil & Gas - Houston, Texas, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://www.houstonenergyinc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Apple",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.apple.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Applied Medical",
+    "industry": "Healthcare/Medical Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://appliedmedical.com/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biomedical Engineering",
+      "Health Sciences"
+    ]
+  },
+  {
+    "company_name": "Applied Research Associates, Inc.",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/Applied_Research_Associates",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Engineering & Advisory Services - Marietta, Georgia, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://knobleengineering.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "APTIM",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.aptim.com/connect/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Aramco Americas",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://americas.aramco.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Arapahoe County Government",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://co.colorado.gov/arapahoe-county",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Arcadis",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.arcadis.com/en-us",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Utilities/Power - Tonopah, Arizona, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 1001-5000 employees",
+    "website": "https://www.tonopahnevada.com/tonopah-public-utilities/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Asarco LLC",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://www.asarco.com/mines/asar/",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "AST SpaceMobile",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/AST_SpaceMobile",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Black Hills Energy",
+    "industry": "Utilities/Power",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://www.blackhillsenergy.com/",
+    "matching_majors": [
+      "Electrical Engineering",
+      "Energy Systems",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Bloomberg LP",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Bloomberg_L.P.",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BMO Capital Markets",
+    "industry": "Retail/Wholesale",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://capitalmarkets.bmo.com/en/about-us/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BNBuilders",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.bnbuildersesopsettlement.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "BNSF Railway",
+    "industry": "Transportation & Logistics",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www.bnsf.com/?ref=w3use",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Manufacturing/Machinery/Equipment",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "1001-5000 employees",
+    "website": "https://hgrinc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bolton & Menk",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.bolton-menk.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "Bowman",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://bowman.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "bp America Inc.",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.bp.com/en-US/about-us/investing-in-america",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bradken",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.bradken.com/products-and-services",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Brasfield & Gorrie",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.brasfieldgorrie.com/contact/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Bray International Inc",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.bray.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Bridgestone Americas",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "10,001+ employees",
+    "website": "https://www.bridgestoneamericas.com/en/index",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Broadcom",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Broadcom",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Brooks Running",
+    "industry": "Retail/Wholesale",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.brooksrunning.com/en_us",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BTU Analytics",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://www.ipaddress.com/website/btuanalytics.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Builders FirstSource",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.bldr.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Buro Happold",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/Buro_Happold",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Businessolver",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://businessolver.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "BW Design Group",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.bwdesigngroup.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Retail/Wholesale - LONE TREE, Colorado, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www.dnb.com/business-directory/company-information.wholesale_trade.us.colorado.lone_tree.html",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cache Valley Electric",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.cve.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "CACI International",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/CACI",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Caesars Entertainment",
+    "industry": "Retail/Wholesale",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Caesars_Entertainment",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Biotech/BioEng/Pharmaceuticals",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://biotechclinical.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cambria",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.cambria.gg/",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Black Hills Energy",
+    "industry": "Utilities/Power",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://www.blackhillsenergy.com/",
+    "matching_majors": [
+      "Electrical Engineering",
+      "Energy Systems",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Bloomberg LP",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Bloomberg_L.P.",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BMO Capital Markets",
+    "industry": "Retail/Wholesale",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://capitalmarkets.bmo.com/en/about-us/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BNBuilders",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.bnbuildersesopsettlement.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "BNSF Railway",
+    "industry": "Transportation & Logistics",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www.bnsf.com/?ref=w3use",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Manufacturing/Machinery/Equipment",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "1001-5000 employees",
+    "website": "https://hgrinc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bolton & Menk",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.bolton-menk.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "Bowman",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://bowman.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "bp America Inc.",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.bp.com/en-US/about-us/investing-in-america",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bradken",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.bradken.com/products-and-services",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Brasfield & Gorrie",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.brasfieldgorrie.com/contact/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Bray International Inc",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.bray.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Bridgestone Americas",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "10,001+ employees",
+    "website": "https://www.bridgestoneamericas.com/en/index",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Broadcom",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Broadcom",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Brooks Running",
+    "industry": "Retail/Wholesale",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.brooksrunning.com/en_us",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BTU Analytics",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://www.ipaddress.com/website/btuanalytics.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Builders FirstSource",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.bldr.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Buro Happold",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/Buro_Happold",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Businessolver",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://businessolver.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "BW Design Group",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.bwdesigngroup.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Retail/Wholesale - LONE TREE, Colorado, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www.dnb.com/business-directory/company-information.wholesale_trade.us.colorado.lone_tree.html",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cache Valley Electric",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.cve.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "CACI International",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/CACI",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Caesars Entertainment",
+    "industry": "Retail/Wholesale",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Caesars_Entertainment",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Biotech/BioEng/Pharmaceuticals",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://biotechclinical.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cambria",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.cambriausa.com/",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "City of Westminster",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.westminsterco.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Clean Harbors",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.cleanharbors.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Environmental Resources/Water",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.eraqc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cleveland Cliffs",
+    "industry": "Metals",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.clevelandcliffs.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Mechanical Engineering",
+      "Metallurgical & Materials Engineering"
+    ]
+  },
+  {
+    "company_name": "CMC",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.cmc.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "CoBank",
+    "industry": "Banking/Finance/Accounting",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/CoBank",
+    "matching_majors": [
+      "Applied Mathematics",
+      "Data Science",
+      "Economics",
+      "Finance"
+    ]
+  },
+  {
+    "company_name": "Cobham Advanced Electrical Solutions",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.mwrf.com/companies/company/21150204/cobham-advanced-electronic-solutions-caes",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Colliers Engineering & Design",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://colliersengineering.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "Colorado Army National Guard (COARNG)",
+    "industry": "Military",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://co.ng.mil/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Colorado Department of Public Safety",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://publicsafety.colorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Department of Transportation",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.codot.gov/travel",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Dept. of Public Health and Environment",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://cdphe.colorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Judicial Branch",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.coloradojudicial.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Parks and Wildlife",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://cpw.state.co.us/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Springs Utilities",
+    "industry": "Utilities/Power",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.csu.org/",
+    "matching_majors": [
+      "Electrical Engineering",
+      "Energy Systems",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Colorado State Patrol",
+    "industry": "Legal/Law",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://csp.colorado.gov/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "COLSA Corporation",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://colsa.com/",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "High Tech/Information Technology",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/High_tech",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Compass Minerals",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/Compass_Minerals",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Computer Services",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://www.bleepingcomputer.com/virus-removal/threat/tech-support-scams/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "ConocoPhillips",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.conocophillips.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "CONSOR Engineers",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.consoreng.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "Constellium",
+    "industry": "Metals",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "http://www.constellium.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Mechanical Engineering",
+      "Metallurgical & Materials Engineering"
+    ]
+  },
+  {
+    "company_name": "Consumer Financial Protection Bureau",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.consumerfinance.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Continental Resources",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/Continental_Resources",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Corning",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Corning_Inc.",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "CRB Consulting Engineers",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.crbgroup.com/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "Engineering & Advisory Services",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://engineering-advisory.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Banking/Finance/Accounting",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.usbank.com/index.html",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Credera",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://credera.com/en-us/Pages/default.aspx",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cretex Medical",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.cretexmedical.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "CRH",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.crh.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "CRH Americas Materials",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.crhamericasmaterials.com/",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Cumming Group",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://cumming-group.com/en/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "D.E. Shaw Group",
+    "industry": "Banking/Finance/Accounting",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/D._E._Shaw_&_Co.",
+    "matching_majors": [
+      "Applied Mathematics",
+      "Data Science",
+      "Economics",
+      "Finance"
+    ]
+  },
+  {
+    "company_name": "DCP Midstream",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/DCP_Midstream_Partners",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Dell Technologies",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.dell.com/en-us",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Denver International Airport",
+    "industry": "Transportation & Logistics",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/Denver_International_Airport",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Electric Power Systems",
+    "industry": "Utilities/Power",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://epsenergy.com/",
+    "matching_majors": [
+      "Electrical Engineering",
+      "Energy Systems",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Electrical Consultants",
+    "industry": "Utilities/Power",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://eciusa.com/",
+    "matching_majors": [
+      "Electrical Engineering",
+      "Energy Systems",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Eli Lilly and Company",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "Ellwood Group, Inc. (EGI)",
+    "industry": "Metals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.ellwoodgroup.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Mechanical Engineering",
+      "Metallurgical & Materials Engineering"
+    ]
+  },
+  {
+    "company_name": "Emerson",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.emerson.com/en/corporate",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Education/Instruction/Administration - Firestone, Colorado, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.firestoneco.gov/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Utilities/Power - KENNESAW, Georgia, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://www.kennesaw.com/information/utilities/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "ENERGY TRANSFER",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.energytransfer.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "ENGIE North America",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www.engie-na.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Entegris, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Entegris",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "ENTRUST Solutions Group",
+    "industry": "Utilities/Power",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://entrustsol.com/",
+    "matching_majors": [
+      "Electrical Engineering",
+      "Energy Systems",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Envestnet Asset Management, Inc",
+    "industry": "Banking/Finance/Accounting",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/Envestnet",
+    "matching_majors": [
+      "Applied Mathematics",
+      "Data Science",
+      "Economics",
+      "Finance"
+    ]
+  },
+  {
+    "company_name": "EOG Resources",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/EOG_Resources",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Epic",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www.epic.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Mining - Garland, Texas, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "http://www.us-mining.com/texas/garland",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Epiroc Drilling Solutions USA",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.epiroc.com/en-us",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Equitable Advisors",
+    "industry": "Banking/Finance/Accounting",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://equitable.com/",
+    "matching_majors": [
+      "Applied Mathematics",
+      "Data Science",
+      "Economics",
+      "Finance"
+    ]
+  },
+  {
+    "company_name": "ERAMET",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www.eramet.com/en/",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Banking/Finance/Accounting - Houston, Texas, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www.f6s.com/companies/finance/united-states/texas/houston/co",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Eurofins Test America",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.eurofins.com/en-us/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Evoqua Water Technologies",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://www.xylem.com/en-us/brand/evoqua/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "EXP",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.discovery.com/shows/expedition-unknown",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Expedia Group",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Expedia_Group",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Geosyntec Consultants",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://geosyntec.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Gerdau Long Steel North America",
+    "industry": "Metals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www2.gerdau.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Mechanical Engineering",
+      "Metallurgical & Materials Engineering"
+    ]
+  },
+  {
+    "company_name": "GFT",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.gftinc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "GHD Services, Inc",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/GHD_Group",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "GOLFTEC",
+    "industry": "Retail/Wholesale",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/GolfTEC",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Goodwill of Colorado",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 1001-5000 employees",
+    "website": "https://goodwillcolorado.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Graham",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://grahamhancock.com/whitemany17/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Granges Americas",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.granges.com/markets-and-products/americas/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Great Plains Manufacturing",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://www.greatplainsmfg.com/en",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Grede",
+    "industry": "Metals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://grede.com/company/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Mechanical Engineering",
+      "Metallurgical & Materials Engineering"
+    ]
+  },
+  {
+    "company_name": "Greeley-Evans School District 6",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 1001-5000 employees",
+    "website": "https://www.greeleyschools.org/",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "Guidehouse Inc.",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Guidehouse",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "H and E Parts international",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.h-eparts.com/",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "H2O Innovation",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.h2oinnovation.com/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Halliburton",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www.halliburton.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Hanwha Corporation",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.hanwha.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "HarbisonWalker International, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/HarbisonWalker_International",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Harrison School District Two",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 1001-5000 employees",
+    "website": "https://www.hsd2.org/",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "HASKELL",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.haskell.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Hatch Associates Consultants Inc.",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www.hatch.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "HDR Engineering",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/HDR,_Inc.",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "ING Capital LLC",
+    "industry": "Banking/Finance/Accounting",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.ingwb.com/en/service/compliance/privacy-and-legal-statements/ing-capital-markets-llc-ingcm",
+    "matching_majors": [
+      "Applied Mathematics",
+      "Data Science",
+      "Economics",
+      "Finance"
+    ]
+  },
+  {
+    "company_name": "Ingalls Shipbuilding",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Ingalls_Shipbuilding",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Institute for Defense Analyses (IDA)",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/Institute_for_Defense_Analyses",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Intel",
+    "industry": "Electronics/Electrical Components",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.intel.com/content/www/us/en/download-center/home.html",
+    "matching_majors": [
+      "Computer Engineering",
+      "Electrical Engineering",
+      "Physics"
+    ]
+  },
+  {
+    "company_name": "Introba",
+    "industry": "Electronics/Electrical Components",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.introba.com/",
+    "matching_majors": [
+      "Computer Engineering",
+      "Electrical Engineering",
+      "Physics"
+    ]
+  },
+  {
+    "company_name": "Invenergy LLC",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/Invenergy",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "IonQ",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/IonQ",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "IRS",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 10,001+ employees",
+    "website": "https://www.irs.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "J.F. Shea Construction, Inc.",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/J._F._Shea_Co.",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "J.S. Held",
+    "industry": "Automotive",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.jsheld.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Jabil",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.jabil.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Jacobs Engineering COMET Kennedy Space Center, FL",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www.nasa.gov/news-release/nasa-awards-consolidated-operations-management-engineering-contract/",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Janicki Industries",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.janicki.com/about-us/",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "JE Dunn Construction",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/J._E._Dunn_Construction_Group",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Jefferies & Company, Inc.",
+    "industry": "Banking/Finance/Accounting",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/Jefferies_Group",
+    "matching_majors": [
+      "Applied Mathematics",
+      "Data Science",
+      "Economics",
+      "Finance"
+    ]
+  },
+  {
+    "company_name": "Jefferson County Business Innovation & Technology",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.jeffco.us/797/Business-Innovation-Technology",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Jefferson County Workforce",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.jeffco.us/774/Resources-for-Job-Seekers",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Jensen Hughes",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/Jensen_Hughes",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "JMT",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://jmt.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "John Deere",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.deere.com/en-US",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Johnson, Mirmiran & Thompson",
+    "industry": "McKinney, Texas, United States",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://findlandsurveyor.com/pennsylvania/york/johnson-mirmiran-thompson/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Kansas Department of Transportation (KDOT)",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.ksdot.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "KBI Biopharma Inc.",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.kbibiopharma.com/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "Kearney",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://cityofkearney.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Kelvion",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.kelvion.com/products",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Keysight Technologies",
+    "industry": "Electronics/Electrical Components",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.keysight.com/us/en/about.html",
+    "matching_majors": [
+      "Computer Engineering",
+      "Electrical Engineering",
+      "Physics"
+    ]
+  },
+  {
+    "company_name": "Kiewit",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www.kiewit.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Geotechnical Engineering - San Diego, California, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://voengineeringinc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Koch Industries",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Koch,_Inc.",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Komatsu",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.komatsu.com/en-us",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Lawrence Berkeley Lab",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.lbl.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Layne, A Granite Company",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://www.graniteconstruction.com/company/our-brands/layne",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "LDIS",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://lxpantoslmd.bsgcommerce.com:9090/login.html",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Lineage",
+    "industry": "Transportation & Logistics",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://l2unknown.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "LinQuest Corporation",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.linquestglobal.com/",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Littleton Public Schools",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 1001-5000 employees",
+    "website": "https://www.littletonps.org/",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "LJA Engineering, INC",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.lja.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "LMI",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.lmisolutions.com/",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Lockheed Martin",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Lockheed_Martin",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Los Alamos National Laboratory",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Lumen Technologies",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Lumen_Technologies",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Lutron Electronics",
+    "industry": "Electronics/Electrical Components",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.lutron.com/us/en/about/who-we-are",
+    "matching_majors": [
+      "Computer Engineering",
+      "Electrical Engineering",
+      "Physics"
+    ]
+  },
+  {
+    "company_name": "Magellan Midstream Partners",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/Magellan_Midstream_Partners",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Magotteaux",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.magotteaux.com/en/about-magotteaux/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "MAPEI",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www.mapei.com/us/en-us/home-page",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Marathon Petroleum Company",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Marathon_Petroleum",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Martin Marietta Materials",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Martin_Marietta_Materials",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Martin Sprocket & Gear, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.martinsprocket.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Mastec",
+    "industry": "Utilities/Power",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.mastec.com/expertise/data-centers",
+    "matching_majors": [
+      "Electrical Engineering",
+      "Energy Systems",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Materion",
+    "industry": "Metals",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/Materion",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Mechanical Engineering",
+      "Metallurgical & Materials Engineering"
+    ]
+  },
+  {
+    "company_name": "McKinsey & Company",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/McKinsey_&_Company",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mead & Hunt",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://meadhunt.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Medpace",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://www.medpace.com/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "Medtronic",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.medtronic.com/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "Engineering & Advisory Services",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://engineering-advisory.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mercury Marine",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.mercurymarine.com/us/en",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Merrick & Company",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.merrick.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Metallus Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://metallus.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Manufacturing/Machinery/Equipment",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://hgrinc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Civil Engineering - Lakewood, Colorado, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.mullereng.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Microchip Technology",
+    "industry": "Electronics/Electrical Components",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.microchip.com/",
+    "matching_majors": [
+      "Computer Engineering",
+      "Electrical Engineering",
+      "Physics"
+    ]
+  },
+  {
+    "company_name": "MIND ID",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://mind.id/en",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Mines Academic Affairs",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 1001-5000 employees",
+    "website": "https://academicaffairs.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Engineering, Design and Society",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 1001-5000 employees",
+    "website": "https://eds.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Geophysics",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 1001-5000 employees",
+    "website": "https://geophysics.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines NIST PREP",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 1001-5000 employees",
+    "website": "https://nexus.mines.edu/nist-professional-research-experience-program/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Office of Undergraduate Studies",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 1001-5000 employees",
+    "website": "https://undergraduatestudies.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Missouri Department of Transportation",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.modot.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Mistras Group",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://www.mistrasgroup.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mitsubishi Power Americas, Inc.",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://power.mhi.com/regions/amer/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Modivcare",
+    "industry": "Healthcare/Medical Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.mymodivcare.com/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biomedical Engineering",
+      "Health Sciences"
+    ]
+  },
+  {
+    "company_name": "Murphy Oil Corp",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://www.murphyoilcorp.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Murray Company",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://murraycompany.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "MWH Constructors",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.mwhconstructors.com/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Nabors Completion & Production Services",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.nabors.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "National Oilwell Varco (NOV)",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/NOV_Inc.",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "National Park Service/Great Basin Institute",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 10,001+ employees",
+    "website": "https://thegreatbasininstitute.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  }
+]

@@ -1,0 +1,2787 @@
+[
+  {
+    "company_name": "Brownnote Productions",
+    "industry": "Electronics/Electrical Components",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://brownnote.com/",
+    "matching_majors": [
+      "Computer Engineering",
+      "Electrical Engineering",
+      "Physics"
+    ]
+  },
+  {
+    "company_name": "Brunk Industries",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.brunk.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Metals",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.unknownmetal.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Brunner & Lay, Inc",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://brunnerlay.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Brunner and Lay",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://brunnerlay.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Brunton",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.brunton.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Bryan Research & Engineering",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bre.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Buckley Powder Co",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://buckleypowder.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Buckman",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.buckman.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Build Change",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://buildchange.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Build with Robots",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.builtrobotics.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "BuilderMT",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.ecisolutions.com/products/builder-mt/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Building & Earth Sciences",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.buildingandearth.com/about-us/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Bull Durham Casino",
+    "industry": "Retail/Wholesale",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "http://bulldurhamcasino.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bureau of Diplomatic Security",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Bureau_of_Diplomatic_Security",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Bureau of Labor Statistics",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Government/Public Sector",
+    "website": "https://www.bls.gov/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bureau of Land Management (BLM)- Wyoming",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blm.gov/wyoming",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Bureau of Land Management - Alaska",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blm.gov/alaska",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Bureau of Land Management - National Operations Center",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blm.gov/office/national-operations-center",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Bureau of Land Management - Nevada",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blm.gov/nevada",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Bureau of Ocean Energy Management",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Government/Public Sector",
+    "website": "https://en.wikipedia.org/wiki/Bureau_of_Ocean_Energy_Management",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BURNCO TEXAS LLC.",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "http://www.burnco.com/locations/texas/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Burnwater",
+    "industry": "Retail/Wholesale",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://burnwater.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BurstIQ",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://burstiq.com/about-burstiq/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Private company with 11-50 employees",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.crunchbase.com/hub/companies-fewer-than-50-employees",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Burton Snowboards",
+    "industry": "Retail/Wholesale",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.burton.com/en-us",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BWAB Oil & Gas",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://bwab.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BWX Technologies",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/BWX_Technologies",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Manufacturing/Machinery/Equipment",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://hgrinc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Public company with 1001-5000 employees",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://enrichlayer.com/company/size/1001-5000",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "By the Pixel",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://bythepixel.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "C&J Energy Services",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://cjwellservices.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "C12 Energy",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://c12-energy.co.uk/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "C2 Education",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.c2educate.com/faqs/",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "Cabela's",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Cabela's",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "CableLabs",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cablelabs.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "High Tech/Information Technology",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://unknown-technology.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cabot Corporation",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cabotcorp.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "CadActive Technologies",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://cadactive.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cadence Design Systems",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cadence.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "High Tech/Information Technology",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://unknown-technology.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cairn India Limited",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Cairn_India",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cairn Oil and Gas",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Capricorn_Energy",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cal Poly",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/California_Polytechnic_State_University,_San_Luis_Obispo",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Education/Instruction/Administration",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.ed.gov/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cal-OSHA",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.dir.ca.gov/dosh/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Calculx Inc",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.calculx.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Caldera Engineering",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://calderaengineering.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Calfrac Well Services Corp.",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Calfrac_Well_Services",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cali English(Shenzhen, China)",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sz.gov.cn/en_szgov/news/latest/content/post_12897346.html",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "Caliber Midstream",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.linkedin.com/company/caliber-midstream",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Calibermind",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://calibermind.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Calichi Design Group",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://calichi.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "Private company with 11-50 employees",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://evyus.com/companies/independent-companies-under-10m-revenue-incl-unknown-11-50-employees-private-wit",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "California Air Resources Board",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/California_Air_Resources_Board",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "California Department of Transportation",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://dot.ca.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "CALIFORNIA METAL-X (CMX)",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://cmxmetals.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "California Resources",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.crc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Call & Nicholas",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cnitucson.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Calpine Corporation",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Calpine",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "CalPortland",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/CalPortland_Company",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Cambrex",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Cambrex_Corporation",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cambridge Companies, Inc",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://cambridgecompaniesinc.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Birchwood Laboratories LLC",
+    "industry": "Metals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://birchwoodlaboratories.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Mechanical Engineering",
+      "Metallurgical & Materials Engineering"
+    ]
+  },
+  {
+    "company_name": "Birdi Systems, Inc.",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.birdi-inc.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Private company with 51-200 employees",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://enrichlayer.com/company/size/51-200",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bishop-Brogden Associates",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.coloradolandcan.org/local-resources/BishopBrogden-Associates-Inc/40128",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Bison Oil & Gas",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bisonog.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bitmovin",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://bitmovin.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Bits in Glass",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://bitsinglass.ai/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Bits, Bytes & Bots",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://bytesandbots.com/",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "BKBM Engineers",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://bkbm.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "Black & Veatch",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://en.wikipedia.org/wiki/Black_&_Veatch",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "Black Box",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Black_Box_Corporation",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Black Diamond Retail, Inc",
+    "industry": "Retail/Wholesale",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blackdiamondequipment.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Black Fox Mining",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://blackfoxmining.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mining",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://miningtech.fandom.com/wiki/Unknown",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Black Hills Corporation",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Black_Hills_Corporation",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Black Mountain Sand",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blackmtn.com/frac-sand/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mining",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://miningtech.fandom.com/wiki/Unknown",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BlackBridge Defense",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blackbridgedefense.com/",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Blackriver LLC",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://blackriverholdings.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BlackRock",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blackrock.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Banking/Finance/Accounting",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.usbank.com/index.html",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BlackSky",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://blacksky.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Aerospace/Defense/Aviation",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.honeywellaerospace.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bloom Energy",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Bloom_Energy",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Energy - Alternative/Renewable - Sunnyvale, CA, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sunnyvale.ca.gov/your-government/city-initiatives/sustainability",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bloomberg",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bloomberg.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Blount International",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://jebblount.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Blu Energy Solutions",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "http://www.bluenergysolutions.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Blue Box Air",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://blueboxair.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Environmental Resources/Water - Dallas, Texas, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://dallascityhall.com/departments/OEQ/pages/default.aspx",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Blue Guard Innovations",
+    "industry": "Electronics/Electrical Components",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bluebgi.com/",
+    "matching_majors": [
+      "Computer Engineering",
+      "Electrical Engineering",
+      "Physics"
+    ]
+  },
+  {
+    "company_name": "Blue Lotus Outdoors",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.linkedin.com/company/blue-lotus-outdoors",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Construction Engineering - DENVER, Colorado, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.usengineering.com/location/denver/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Blue Mountain Energy",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bluemountainenergy.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Blue Origin",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://en.wikipedia.org/wiki/Blue_Origin",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Blue Sky Energy Solutions Inc",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://blueskyenergy.solar/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Blue Steel Real Estate",
+    "industry": "Retail/Wholesale",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bluesteeldevelopment.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Blue Sun Biodiesel",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sunbiodieselfuel.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BlueHalo",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://bluehalo.global/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Aerospace/Defense/Aviation",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.aerospace-and-defence.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BluePrint Automation",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blueprintsys.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Blueprint Schools Network",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://blueprintschools.org/",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "Bluestone Environmental Group",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://bluestoneenviro.com/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Bluetest",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bluetest.eu/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "BMO Financial Group",
+    "industry": "Banking/Finance/Accounting",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bmo.com/en-us/main/personal/",
+    "matching_majors": [
+      "Applied Mathematics",
+      "Data Science",
+      "Economics",
+      "Finance"
+    ]
+  },
+  {
+    "company_name": "BMT Global",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bmt.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BNDR Music",
+    "industry": "Retail/Wholesale",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://music.youtube.com/channel/UCpOCwPw8yWmvzERpg4RzsOg",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BNP Paribas",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://group.bnpparibas/en/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Banking/Finance/Accounting",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.usbank.com/index.html",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Boa Technology",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.boafit.com/en-us/contact-us",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Boardwalk Pipelines, LP",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Other organization",
+    "website": "https://en.wikipedia.org/wiki/Boardwalk_Pipelines",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Boccard",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.boccard.com/sites/north-america/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bodycote",
+    "industry": "Metals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Bodycote",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Mechanical Engineering",
+      "Metallurgical & Materials Engineering"
+    ]
+  },
+  {
+    "company_name": "Boeing Company",
+    "industry": "Aerospace/Defense/Aviation",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Boeing",
+    "matching_majors": [
+      "Aerospace Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Bogus Burgers",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/List_of_fake_news_websites",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bohannan Huston",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://bhinc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Civil Engineering - Albuquerque, New Mexico, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.spa.usace.army.mil/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bohler Engineering",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://bohlerengineering.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Boise State University",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.boisestate.edu/",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "Bolder Industries",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bolderindustries.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Bolder Industries, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bolderindustries.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Bonanza Creek Energy, Inc.",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.linkedin.com/company/bonanza-creek-energy-inc-",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bond Pets",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bondpets.com/shop/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Bonneville Power Administration",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Bonneville_Power_Administration",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Utilities/Power",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.unitedpower.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Boom Supersonic",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Boom_Technology",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Booz Allen Hamilton",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Booz_Allen_Hamilton",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bortz Media & Sports Group",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://bortz.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Boston Engineering Corporation",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://www.boston-engineering.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Boston Market Corporation",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Boston_Market",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Boston Plan for Excellence",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://dawhois.com/site/bpe.org.html",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "Boston Scientific",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bostonscientific.com/en-US/home.html",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Boulder County Coroner Office",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://bouldercounty.gov/departments/coroner/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Boulder Heavy Industries",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://boulderheavyindustries.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Engineering & Advisory Services",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://engineering-advisory.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Boulder Imaging, Inc.",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.boulderimaging.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Boulder Innovation Group, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://boulderinnovators.com/about-us/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Boulder IQ",
+    "industry": "Biotech/BioEng/Pharmaceuticals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://boulderiq.com/",
+    "matching_majors": [
+      "Bioengineering",
+      "Biology",
+      "Chemical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "company_name": "Boulder Jewish Community Center",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.boulderjcc.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Boulder Scientific Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bouldersci.com/about/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Bounteous",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bounteous.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Boyer Sales & Service",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.boyersales.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Manufacturing/Machinery/Equipment",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://hgrinc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Boys & Girls Clubs of Metro Denver",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bgcmd.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bracket Labs",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bracket.fi/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Braddock Financial",
+    "industry": "Banking/Finance/Accounting",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://braddockholdings.com/",
+    "matching_majors": [
+      "Applied Mathematics",
+      "Data Science",
+      "Economics",
+      "Finance"
+    ]
+  },
+  {
+    "company_name": "Brahma Group Inc",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://brahmagroupinc.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "BrainSpire Solutions",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://brainspire.in/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Braskem America",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Braskem",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Braun Intertec",
+    "industry": "Geotechnical Engineering",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://www.braunintertec.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Earth Sciences",
+      "Geological Engineering"
+    ]
+  },
+  {
+    "company_name": "Braxton Technologies",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://braxtongrant.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Brayn Consulting",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://brayn.solutions/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Banking/Finance/Accounting - Santa Clarita, California, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.usbank.com/locations/california/santa-clarita/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BRIAN SEYFERTH & ASSOCIATES (BSA)",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://opengovco.com/business/19971002880",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BridgeComm",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bridgecomsystems.com/pages/home",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "High Tech/Information Technology - Denver, Colorado, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Technology-Services",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bridger Photonics",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bridgerphotonics.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bridges of Silence Educational Center",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://bridges.colorado.gov/",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "Bridgestone Tire",
+    "industry": "Automotive",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bridgestone.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bridler",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "http://www.bridler.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Bridon American",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bridon-usa.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Brigham Young University",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Brigham_Young_University",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "Bright Energy Storage Technologies",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://brightenergyusa.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bright Minds Tutoring and Mentoring",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.brightmindstutor.net/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Brimstone Energy",
+    "industry": "Metals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.brimstone.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Mechanical Engineering",
+      "Metallurgical & Materials Engineering"
+    ]
+  },
+  {
+    "company_name": "Brittany Pettersen Seventh District of Colorado",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Government/Public Sector",
+    "website": "https://en.wikipedia.org/wiki/Brittany_Pettersen",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BROC",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.broc.ch/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Broco, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://brocoproducts.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Brookhaven National Laboratory",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Government/Public Sector",
+    "website": "https://en.wikipedia.org/wiki/Brookhaven_National_Laboratory",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bross Group",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://brosgroup.net/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "High Tech/Information Technology",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://unknown-technology.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Brown and Caldwell",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://brownandcaldwell.com/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Brown Civil Engineering",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://engineering.brown.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Brownnote Productions",
+    "industry": "Electronics/Electrical Components",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://brownnote.com/",
+    "matching_majors": [
+      "Computer Engineering",
+      "Electrical Engineering",
+      "Physics"
+    ]
+  },
+  {
+    "company_name": "Brunk Industries",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.brunk.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Metals",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.unknownmetal.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Brunner & Lay, Inc",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://brunnerlay.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Brunner and Lay",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://brunnerlay.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Brunton",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.brunton.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Bryan Research & Engineering",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bre.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Buckley Powder Co",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://buckleypowder.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Buckman",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.buckman.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "Build Change",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://buildchange.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Build with Robots",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.builtrobotics.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "BuilderMT",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.ecisolutions.com/products/builder-mt/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Building & Earth Sciences",
+    "industry": "Environmental Resources/Water",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.buildingandearth.com/about-us/",
+    "matching_majors": [
+      "Chemistry",
+      "Environmental Engineering",
+      "Environmental Science"
+    ]
+  },
+  {
+    "company_name": "Bull Durham Casino",
+    "industry": "Retail/Wholesale",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "http://bulldurhamcasino.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bureau of Diplomatic Security",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Bureau_of_Diplomatic_Security",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Bureau of Labor Statistics",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Government/Public Sector",
+    "website": "https://www.bls.gov/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bureau of Land Management (BLM)- Wyoming",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blm.gov/wyoming",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Bureau of Land Management - Alaska",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blm.gov/alaska",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Bureau of Land Management - National Operations Center",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blm.gov/office/national-operations-center",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Bureau of Land Management - Nevada",
+    "industry": "Mining",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blm.gov/nevada",
+    "matching_majors": [
+      "Geological Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ]
+  },
+  {
+    "company_name": "Bureau of Ocean Energy Management",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Government/Public Sector",
+    "website": "https://en.wikipedia.org/wiki/Bureau_of_Ocean_Energy_Management",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BURNCO TEXAS LLC.",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "http://www.burnco.com/locations/texas/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Burnwater",
+    "industry": "Retail/Wholesale",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://burnwater.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BurstIQ",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://burstiq.com/about-burstiq/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Private company with 11-50 employees",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.crunchbase.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Burton Snowboards",
+    "industry": "Retail/Wholesale",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.burton.com/en-us",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BWAB Oil & Gas",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://bwab.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "BWX Technologies",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/BWX_Technologies",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Manufacturing/Machinery/Equipment",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://hgrinc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Public company with 1001-5000 employees",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://enrichlayer.com/company/size/1001-5000",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "By the Pixel",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://bythepixel.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "C&J Energy Services",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://cjwellservices.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "C12 Energy",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://c12-energy.co.uk/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "C2 Education",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.c2educate.com/faqs/",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "Cabela's",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Cabela's",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "CableLabs",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cablelabs.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "High Tech/Information Technology",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://unknown-technology.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cabot Corporation",
+    "industry": "Chemicals",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cabotcorp.com/",
+    "matching_majors": [
+      "Chemical Engineering",
+      "Chemistry",
+      "Materials Science"
+    ]
+  },
+  {
+    "company_name": "CadActive Technologies",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://cadactive.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cadence Design Systems",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cadence.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "High Tech/Information Technology",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://unknown-technology.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cairn India Limited",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Cairn_India",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cairn Oil and Gas",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Capricorn_Energy",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cal Poly",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/California_Polytechnic_State_University,_San_Luis_Obispo",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Education/Instruction/Administration",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.ed.gov/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cal-OSHA",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/California_Division_of_Occupational_Safety_and_Health",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Calculx Inc",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.calculx.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Caldera Engineering",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://calderaengineering.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Calfrac Well Services Corp.",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Calfrac_Well_Services",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cali English(Shenzhen, China)",
+    "industry": "Education/Instruction/Administration",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sz.gov.cn/en_szgov/news/latest/content/post_12897346.html",
+    "matching_majors": [
+      "Administration",
+      "Education",
+      "STEM Education"
+    ]
+  },
+  {
+    "company_name": "Caliber Midstream",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.linkedin.com/company/caliber-midstream",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Calibermind",
+    "industry": "High Tech/Information Technology",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://calibermind.com/",
+    "matching_majors": [
+      "Computer Science",
+      "Cybersecurity",
+      "Data Science",
+      "Information Systems",
+      "Software Engineering"
+    ]
+  },
+  {
+    "company_name": "Calichi Design Group",
+    "industry": "Civil Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://calichi.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "company_name": "Private company with 11-50 employees",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.crunchbase.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "California Air Resources Board",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/California_Air_Resources_Board",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "California Department of Transportation",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://dot.ca.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "CALIFORNIA METAL-X (CMX)",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://cmxmetals.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "California Resources",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.crc.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Call & Nicholas",
+    "industry": "Engineering & Advisory Services",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cnitucson.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Calpine Corporation",
+    "industry": "Energy",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Calpine",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "CalPortland",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/CalPortland_Company",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Cambrex",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Cambrex_Corporation",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cambridge Companies, Inc",
+    "industry": "Construction Engineering",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://cambridgecompaniesinc.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Construction Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "City of Englewood",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency",
+    "website": "https://englewoodgov.civicweb.net/Portal/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Evans",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Government/Public Sector",
+    "website": "https://www.evanscolorado.gov/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Public company with 51-200 employees",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://enrichlayer.com/company/size/51-200",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "City of Evans",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.evanscolorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Fort Collins",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.fortcollins.gov/Government",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Government/Public Sector - Fort Collins, Colorado, United States",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.fortcollins.gov/Government",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "City of Fountain",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://fountain.colorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Fremont",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency",
+    "website": "https://www.fremont.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Glenwood Springs",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cogs.us/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Greeley",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://greeleyco.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Greenwood Village",
+    "industry": "Unknown",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://greenwoodvillage.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  }
+]
