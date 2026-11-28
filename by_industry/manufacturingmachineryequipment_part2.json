@@ -1,0 +1,3002 @@
+[
+  {
+    "company_name": "Kooima Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://kooimacompany.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "KRI",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://krillion.io/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "KSB",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 501-1000 employees",
+    "website": "https://www.ksb.com/en-us",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "L&L Fabrication, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://www.lnlfab.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "L&W Group",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://lwgroupusa.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Lam-Wood Systems, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://lamwood.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Lark Heat Treating",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.larkheat.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Lee C. Moore, A Woolslayer Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.lcm-wci.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Legacy Mechanical",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://www.legacy-mechanical.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Leggett & Platt, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://leggett.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Leitner-Poma of America, INC - LPOA",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Leitner-Poma",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Leprino Foods Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Leprino_Foods",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Liberty Home Products",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.lhpinc.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Limosa Gear LLC",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://limosallc.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Linamar North Carolina",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Linamar",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Lincoln Electric Automation",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://www.lincolnelectric.com/en/automation",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Lincoln Industries",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.lincolnelectric.com/ ",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Linde",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.linde-gas.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Lithoz America, LLC",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://www.lithoz.com/en/contact-usa/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Logan Aluminum",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.logan-aluminum.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Lone Star Turbo",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company",
+    "website": "https://lonestarblower.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Luvata Appleton, LLC",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://luvata.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "LYNN Engineered Systems LLC",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://lynn-engineering.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "M. Braun, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.mbraun.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Mag Specialties, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.magspecialtiesinc.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Magic Carpet Lifts",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "http://www.magiccarpetlifts.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Magnesita",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "http://www.rhimagnesita.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Magotteaux",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.magotteaux.com/en/about-magotteaux/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Magswitch Technology, Inc",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://magswitch.com/pages/about-us",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Mai-Mechanical",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 201-500 employees",
+    "website": "https://www.linkedin.com/company/mai-mechanical-corporation",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Malisko Engineering, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://malisko.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Mallinda, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.mallinda.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Mark VII Equipment",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 201-500 employees",
+    "website": "https://www.markvii.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "MARSHALLTOWN Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 501-1000 employees",
+    "website": "https://en.wikipedia.org/wiki/Marshalltown_Company",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Martin Engineering",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.martin-eng.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Martin Sprocket & Gear, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.martinsprocket.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Materials Management Concepts, Inc",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://materialconcepts.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "McCoy Sales",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://mccoysalesllc.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "ME GLOBAL",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.meglobal.biz/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Meadowlark Optics",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://www.meadowlark.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Meinhard",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://www.meinhard.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "MemPro Materials Corporation",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://mempro.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Mentice",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://www.mentice.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Mercury Marine",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.mercurymarine.com/us/en",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Meritech",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.meritech.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Merritt Equipment",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://merrittproducts.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Metalcraft Industries",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://www.metalcraft-industries.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Metallus Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://metallus.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Metglas, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 201-500 employees",
+    "website": "https://metglas.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Metro Machine, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://metro-machine.website/about-us/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Michelin",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 201-500 employees",
+    "website": "https://guide.michelin.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Micro-Vu",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.microvu.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Mighty Argo Cable Car",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://mightyargo.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Milwaukee Tool",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.milwaukeetool.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "MKS Instruments",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 5001-10,000 employees",
+    "website": "https://en.wikipedia.org/wiki/MKS_Instruments",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "MM Solutions",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.mm-sol.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Mohawk",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://mohawkind.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Molson Coors Brewing Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.molsoncoors.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "MOM Brands",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/MOM_Brands",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Monarch Tractor",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://www.monarchtractor.com/hubfs/Monarch_Operator_Guide_Website_v.2024.2.pdf?hsLang=en",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Monolith Materials",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 201-500 employees",
+    "website": "https://en.wikipedia.org/wiki/Monolith_Inc.",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Mosoro, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://companiesbio.com/CIK-0001523013-company-mosoro-inc-info.html",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Motion and Flow Control Products MFCP",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.mfcp.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Motion Industries",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 5001-10,000 employees",
+    "website": "https://www.motion.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Mount Sopris Instrument Company, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://mountsopris.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "MSEC, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://msecinc.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "MSI Tec",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://msitec.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Mubea",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.mubea.com/en",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Multi-Dimensional Integration",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://mdiadvantage.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Musco Sports Lighting, LLC",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.musco.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Nathan Trotter",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://nathantrotter.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "National Standard",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.nist.gov/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Natural Food Works",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://naturalfoodworks.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Natural Soda",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/ANSAC",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "NeoCarbon",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://www.neocarbon.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Nestl Purina",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.purina.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "New Belgium Brewing Co.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/New_Belgium_Brewing_Company",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "New WinCup Holdings, Inc",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://wincup.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Newstripe, Inc",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://www.newstripe.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "NFT Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://nftinc.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Niagara Bottling",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Niagara_Bottling",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "NMC-Nebraska Machinery",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://nmccat.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "NOA Brands America",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://www.noabrands.com/the_return_to_physical_stores.html",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Noosa Yoghurt",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://noosayoghurt.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Norfolk Iron & Metal",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 501-1000 employees",
+    "website": "https://www.norfolkiron.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Norman S. Wright - Rocky Mountain",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 201-500 employees",
+    "website": "https://normanwright.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "North American Die Casting Association",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.diecasting.org/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Nova Automation",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://novaautomation.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "NSK Corporation",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 501-1000 employees",
+    "website": "https://www.nsk.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Nucor Steel Hertford County",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "201-500 employees",
+    "website": "https://nucor.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Nucor Vulcraft Group",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://vulcraft.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Nuvonic Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://www.nuvonic.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Obermeyer Hydro, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://www.obermeyerhydro.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Ocado Group",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Ocado",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Oil Tool Solutions",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.hulkusa.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "OMNI-X",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.omni-x.com/us/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "ONNKOR",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://www.ipaddress.com/website/onnkor.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Optimation Technology Inc",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://optimation.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Optimum Sorting Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://www.optimum-sorting.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "OptTek Systems",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.opttek.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Opus Inspection Technologies",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://www.opus.global/vehicle-inspection/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "OPW/Civacon",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.opwglobal.com/civacon/brands/civacon",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Oregon Tool",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.oregontool.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Orion Steel",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 5001-10,000 employees",
+    "website": "https://www.orionsteel.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Oshkosh Truck Corporation",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Oshkosh_Corporation",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Owen Family Foods",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://owenfamilyfoods.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Owens Corning",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.owenscorning.com/en-us",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "P&G",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://us.pg.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "PACCAR Technical Center",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.paccar.com/products-services/paccar-technical-centers/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Packaging Corporation of America (PCA)",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.packagingcorp.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Paragon Films, Inc",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 201-500 employees",
+    "website": "https://www.paragonfilms.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Parker Hannifin",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://www.parker.com/us/en/home.html",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Parker Hannifin - Hose Division",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.parker.com/us/en/divisions/hose-products-division.html",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Particle Measuring Systems",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 501-1000 employees",
+    "website": "https://www.pmeasuring.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Path Robotics",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.path-robotics.com/about",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "PCS Ferguson",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Peckham Industries, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "PepsiCo/Frito-Lay",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Perdue Farms Manufacturing Systems",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Performance Validation, Inc",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Phillips Plastics Corporation",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Photo Stencil",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "PING",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 501-1000 employees",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Ragni-Lighting",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Rain for Rent",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Rasmussen Mechanical Services",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 201-500 employees",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Rebound Technologies",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Red Arrow Mfg",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Reel Game Calls LLC",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Renegade Plastics",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "REP Fitness",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Resurgent Health & Medical, LLC",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Revolution Systems",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Reynolds Polymer Technology, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": null,
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "RideWrap USA",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://www.ridewrap.com/us/en/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Right Stuff Equipment",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.rightstuffequipment.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Ringel Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "http://www.ringelcompany.com/contact/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Rinker Materials",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.rinkerpipe.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Rite-Hite Corporation",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Rite-Hite",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "RK Mission Critical",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://rkindustries.com/rk-mission-critical/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "RMD Kwikform",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.rmdkwikform.com/us/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "RMS Cranes",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://rmscranes.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Robocasting Enterprises",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://www.robocasting.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Rock Hard DesignZ, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.rockdesignz.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Rockmore International",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.rockmore-intl.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Rockwell Collins",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.rtx.com/collinsaerospace/resources/employee-resources",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Rocky Mountain Instrument Co.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://rckymtn.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Rocky Mountain Sales, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.rockymountainsales.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "ROMCO Equipment Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.romco.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "ROTEC USA LLC",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://www.rotec-usa.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sabia Inc",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sabiainc.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sage Ag Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://sageaginc.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Saint-Gobain",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.saint-gobain.com/en",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Samsung Austin Semiconductor",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company",
+    "website": "https://semiconductor.samsung.com/sas/company/austin/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sanders Lead Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 201-500 employees",
+    "website": "https://www.facebook.com/sanderslead/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sandvik Mining & Rock Solutions",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.mining.sandvik/en",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sartorius TCC Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sartorius.com/en/company",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Schneider Electric",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.se.com/ww/en/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Schnitzer Steel Industries",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Radius_Recycling",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Schott",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.schott.com/en-us",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Schreiber Foods, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.schreiberfoods.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Schweitzer Engineering Laboratories",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 5001-10,000 employees",
+    "website": "https://en.wikipedia.org/wiki/Schweitzer_Engineering_Laboratories",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Science Interactive Group",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.scienceinteractive.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "SCRAM Systems",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 201-500 employees",
+    "website": "https://www.scramsystems.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Searing Industries",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.searingindustries.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Select-Arc, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://select-arc.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Semtech",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1001-5000 employees",
+    "website": "https://www.semtech.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sepor",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://sepor.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Serimax North America, LLC",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Service Employees International Union",
+    "website": "https://serimax.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "SEW-Eurodrive",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.seweurodrive.com/home.html",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sherwin-Williams",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sherwin-williams.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Siemens Building Technologies",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Siemens_Building_Technologies",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sienna Technologies, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://siennatech.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Signicast Investment Castings",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.signicast.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sisu Devices",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sisu.co/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Software Bisque",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://www.bisque.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Solar Turbines",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 5001-10,000 employees",
+    "website": "https://en.wikipedia.org/wiki/Solar_Turbines",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "SOMOS IWT INC",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 11-50 employees",
+    "website": "https://somos-iwt.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Source Communications",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://sourceunknown.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Southwest Oilfield Products",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://swoil.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Special Metals Corporation",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Special_Metals_Corporation",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Specialty Products Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://specialtyproducts.co/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Spectrum Aquatics",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://spectrumproducts.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Springs Fabrication",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://springsfab.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "SRAM, LLC",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/SRAM_Corporation",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "SROriginals",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sroriginalsjewelry.com/shop",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Steel Dynamics, Iron Dynamics Division",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.steeldynamics.com/department/iron-dynamics/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Steel Technologies",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.steeltechnologies.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Steelhead Composites",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://steelheadcomposites.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Stolle Machinery Co LLC",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://www.stollemachinery.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "STOR",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://sourceunknown.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Stratton Park Engineering Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "http://www.strattonpark.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Stresscon Corporation",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.stresscon.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Stryten Energy",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.stryten.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Stupp Corporation",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.stuppcorp.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Subtronics India",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.subtronicsindia.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sundyne",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 501-1000 employees",
+    "website": "https://www.sundyne.com/?lang=en",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sunset Stone, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sunsetstone.net/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sunsource",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://sunsourceus.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "SunState Laboratories, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://www.sunstatelabs.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Sunward Steel Buildings",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://sunwardsteel.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Superior Industries",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://superior-ind.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Superior Technical Ceramics",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://ceramics.net/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Surgical Coatings",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://surgicalcoatings.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Swagelok Denver",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://denver.swagelok.com/en",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Symbotic",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Symbotic",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "T.A. Pelsue Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://pelsue.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Tamaki Control",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.tamakicontrol.com/about",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Tea with Tae",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://www.teawithtae.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Teledyne Monitor Labs",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.teledyne-ml.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Tenaris",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 10,001+ employees",
+    "website": "https://www.tenaris.com/en/contact/tenaris-around-the-world/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Tension Packaging and Automation",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 51-200 employees",
+    "website": "https://tensionautomation.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Terex - Materials Processing & Mining",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.terex.com/en/company",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Terry Ludwig Pastels, LLC",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://terryludwig.com/collections/all",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Texas Industries Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/TXI",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "The 3D Printing Store",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://the3dprintingstore.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "The Charles Machine Works, Inc./Subsite Electronics",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://subsite.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "The Keg Steakhouse & Bar",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/The_Keg",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "The Kinetic Group",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.thekineticgroup.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "The Lincoln Electric Co.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.lincolnelectric.com/en/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "The Robbins Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.robbinstbm.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "The Rock Warehouse, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.therockwarehouse.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "The Toro Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.thetorocompany.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "The Western Sugar Cooperative",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 501-1000 employees",
+    "website": "https://en.wikipedia.org/wiki/Western_Sugar_Cooperative",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Thin Metal Parts",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://www.thinmetalparts.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Thorlabs",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/Thorlabs",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "thyssenkrupp Industrial Solutions",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.thyssenkrupp.com/en",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "TIMET",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Titanium_Metals_Corporation",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "TMMI (Powered by Gray Matter)",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://tmmi.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Tomra Sorting Solutions",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.tomra.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Torus Americas",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://www.torus.co/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Total Safety",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.totalsafety.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Tower Extrusions LLC",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1001-5000 employees",
+    "website": "https://www.towerextrusion.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Tracer Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://tracer.tech/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Trans-Tech",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://www.trans-techinc.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "TransVac Systems",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://www.transvac.co.uk/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Trelleborg Sealing Solutions",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 10,001+ employees",
+    "website": "https://www.trelleborg.com/en/about-us/organization/business-areas/trelleborg-sealing-solutions",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Tri Star Metals, LLC",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://tristarmetals.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Trimax",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.trimaxsystems.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Trinidad Benham Corporation",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.trinidadbenham.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Trinity Engineering, PLLC",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://www.trinitypllc.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "TruStile Doors",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.trustile.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Tungsten Parts Wyoming",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://tungstenparts.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "UECompression",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Public company with 51-200 employees",
+    "website": "https://uecompression.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Ulterra Drilling Technologies, LP",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 201-500 employees",
+    "website": "https://ulterra.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Ultimax Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.ultimaxinc.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "United States Gypsum Company",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/USG_Corporation",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Universal Industries, Inc.",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://universalindustries.org.in/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "Update International",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Private company with 1-10 employees",
+    "website": "https://updateinternational.com/",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "company_name": "UQM Technologies",
+    "industry": "Manufacturing/Machinery/Equipment",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/UQM_Technologies",
+    "matching_majors": [
+      "Industrial Engineering",
+      "Manufacturing Engineering",
+      "Mechanical Engineering"
+    ]
+  }
+]

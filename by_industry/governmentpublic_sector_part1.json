@@ -1,0 +1,3002 @@
+[
+  {
+    "company_name": "Adams County",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://adamscountyco.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Air Force Civilian Service",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://afciviliancareers.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Alaska Native Tribal Health Consortium",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 1001-5000 employees",
+    "website": "https://www.anthc.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "American Association for the Advancement of Science",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/American_Association_for_the_Advancement_of_Science",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "American Conservation Experience",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.usaconservation.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Arapahoe County Government",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://co.colorado.gov/arapahoe-county",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Arapahoe County Water & Wastewater Authority",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 11-50 employees",
+    "website": "https://www.acwwa.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Arizona Department of Water Resources",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.azwater.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "ARPA-E",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/ARPA-E",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "ARS-USDA",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://apps.ars.usda.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Asian Pacific American Institute for Congressional Studies (APAICS)",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.apaics.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Boulder County Coroner Office",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://bouldercounty.gov/departments/coroner/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Bureau of Diplomatic Security",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Bureau_of_Diplomatic_Security",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Bureau of Land Management (BLM) - Utah",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 51-200 employees",
+    "website": "https://www.blm.gov/utah",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Bureau of Land Management (BLM)- Wyoming",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blm.gov/wyoming",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Bureau of Land Management - Alaska",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blm.gov/alaska",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Bureau of Land Management - National Operations Center",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blm.gov/office/national-operations-center",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Cal-OSHA",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.dir.ca.gov/dosh/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "California Air Resources Board",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/California_Air_Resources_Board",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "California Department of Conservation",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 501-1000 employees",
+    "website": "https://www.conservation.ca.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "California Department of Transportation",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://dot.ca.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Boulder County Coroner Office",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://bouldercounty.gov/departments/coroner/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Bureau of Diplomatic Security",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Bureau_of_Diplomatic_Security",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Bureau of Land Management (BLM) - Utah",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 51-200 employees",
+    "website": "https://www.blm.gov/utah",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Bureau of Land Management (BLM)- Wyoming",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blm.gov/wyoming",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Bureau of Land Management - Alaska",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blm.gov/alaska",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Bureau of Land Management - National Operations Center",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.blm.gov/office/national-operations-center",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Cal-OSHA",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/California_Division_of_Occupational_Safety_and_Health",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "California Air Resources Board",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/California_Air_Resources_Board",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "California Department of Conservation",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 501-1000 employees",
+    "website": "https://www.conservation.ca.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "California Department of Transportation",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://dot.ca.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Englewood",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency",
+    "website": "https://englewoodgov.civicweb.net/Portal/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Evans",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.evanscolorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Fountain",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://fountain.colorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Fremont",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency",
+    "website": "https://www.fremont.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Glenwood Springs",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cogs.us/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Golden",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 201-500 employees",
+    "website": "https://www.cityofgolden.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Greeley",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://greeleyco.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Lafayette",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.lafayetteco.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Lakewood",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 501-1000 employees",
+    "website": "https://www.lakewoodco.gov/Home",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Lone Tree",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://cityoflonetree.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Longmont",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://longmontcolorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Louisville",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://louisvilleky.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Naperville",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.naperville.il.us/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Pueblo",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.pueblo.us/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Sheridan",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://ci.sheridan.co.us/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Thornton",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency",
+    "website": "https://www.thorntonco.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Torrington",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.torringtonct.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Westminster",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.westminsterco.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Wheat Ridge",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 201-500 employees",
+    "website": "https://www.ci.wheatridge.co.us/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "City of Wichita",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.wichita.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Cold Regions Research and Engineering Laboratory (CRREL)",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 51-200 employees",
+    "website": "https://en.wikipedia.org/wiki/Cold_Regions_Research_and_Engineering_Laboratory",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Department of Corrections",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 5001-10,000 employees",
+    "website": "https://cdoc.colorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Engineering",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://unknownworlds.com/news/new-website",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Department of Human Services",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://cdhs.colorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Department of Labor and Employment",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://cdle.colorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Department of Public Safety",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://publicsafety.colorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Department of Regulatory Agencies",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://dora.colorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Department of Revenue",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://cdor.colorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Department of State",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.sos.state.co.us/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Department of Transportation",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.codot.gov/travel",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Dept. of Public Health and Environment",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://cdphe.colorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado District Attorneys' Council",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://coloradoprosecutors.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Division of Fire Saftey",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://dfpc.colorado.gov/sections/fire-life-safety",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Division of Water Resources",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 201-500 employees",
+    "website": "https://dwr.colorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Energy and Carbon Management Commission (ECMC)",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://ecmc.colorado.gov/regulation/oil-and-gas",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Governor's Office",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.colorado.gov/governor/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado House Republicans",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.coloradohouserepublicans.com/about",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Judicial Branch",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.coloradojudicial.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Legislative Council",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 201-500 employees",
+    "website": "https://content.leg.colorado.gov/agencies/legislative-council-staff",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Office of Economic Development & International Trade",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://oedit.colorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Parks and Wildlife",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://cpw.state.co.us/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Republican Commitee",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.coloradogop.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado River District",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 11-50 employees",
+    "website": "https://www.coloradoriverdistrict.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Science and Engineering Policy Fellowship",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://csepf.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Secretary of State",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 51-200 employees",
+    "website": "https://www.sos.state.co.us/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado Small Business Development Center",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 51-200 employees",
+    "website": "https://sbdc.colorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Colorado State Land Board",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 51-200 employees",
+    "website": "https://slb.colorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Combat Capabilities Development Command Aviation & Missile Center",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.army.mil/devcom-avmc",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Community Development Office, DOLA, State of Colorado",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency",
+    "website": "https://cdola.colorado.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Congressman Ed Perlmutter",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Ed_Perlmutter",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Consolidated Nuclear Security",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 5001-10,000 employees",
+    "website": "https://en.wikipedia.org/wiki/Consolidated_Nuclear_Security",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Consumer Financial Protection Bureau",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.consumerfinance.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Corpus Christi Army Depot",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Corpus_Christi_Army_Depot",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "CUAHSI",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cuahsi.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Democratic National Committee",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Democratic_National_Committee",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Engineer Research and Development Center - Geotechnical and Structures Laboratory",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency",
+    "website": "https://www.erdc.usace.army.mil/Locations/GSL.aspx",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Entia Ventures (Formerly Primal Innovation)",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.primalventures.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "EPA Environmental Research and Business Support Program",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.epa.gov/sbir/how-apply-sbir-contract",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Executive Office of the President – Office of Administration",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Office_of_Administration",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Gilbane Federal",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Gilbane,_Inc.",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Grand Junction Economin Partnership",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 1-10 employees",
+    "website": "https://www.gjep.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Grand Teton National Park",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.nps.gov/grte/index.htm",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Innovation Team at Jefferson County, CO",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1-10 employees",
+    "website": "https://www.jeffco.us/4375/Innovation-at-Jeffco",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Institute for Telecommunications Sciences",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Institute_for_Telecommunication_Sciences",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Institute of International Education Fulbright Program",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.iie.org/programs/fulbright-us-student-program/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Integrity Communications Solutions, Inc",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://integritycsinc.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "IRS",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 10,001+ employees",
+    "website": "https://www.irs.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Jason Crow for Colorado's 6th District",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Jason_Crow",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Jefferson County Business Innovation & Technology",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.jeffco.us/797/Business-Innovation-Technology",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Jefferson County Clerk and Recorder",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Jefferson County Government",
+    "website": "https://www.jeffco.us/4871/Clerk-Recorder",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Jefferson County Public Library",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Public company with 201-500 employees",
+    "website": "https://jeffcolibrary.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Jefferson County Republican Party",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://jeffcorepublicans.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Jefferson County Sheriff",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.jeffcosheriffco.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Jefferson County Workforce",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.jeffco.us/774/Resources-for-Job-Seekers",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Kansas Department of Health and Environment",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.kdhe.ks.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Kansas Department of Transportation (KDOT)",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.ksdot.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "KansasWorks- State of Kansas",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.kansasworks.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Ken Caryl Ranch Metro District",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://ken-carylranch.org/governance/metropolitan-district/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Lawrence Berkeley Lab",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.lbl.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Lawrence Livermore National Laboratory",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Lawrence_Livermore_National_Laboratory",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Los Alamos National Laboratory",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Massachusetts Commission Against Discrimination (MCAD)",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Massachusetts_Commission_Against_Discrimination",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Medicine Bow-Routt National Grassland",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Medicine_Bow–Routt_National_Forest",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Metro Water Recovery",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 201-500 employees",
+    "website": "https://www.metrowaterrecovery.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Minerals Management Service",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Minerals_Management_Service",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Mines Payne Institute",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 11-50 employees",
+    "website": "https://payneinstitute.mines.edu/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Minnesota Department of Natural Resources Division of Lands and Minerals",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.dnr.state.mn.us/lands_minerals/index.html",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Missile Defense Agency",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Missile_Defense_Agency",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Missouri Department of Transportation",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.modot.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Montana Department of Environmental Quality",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://deq.mt.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Montrose County",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 201-500 employees",
+    "website": "https://www.montrosecounty.net/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Museum of the City of New York",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 51-200 employees",
+    "website": "https://en.wikipedia.org/wiki/Museum_of_the_City_of_New_York",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Nasa Glenn Research Center",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.nasa.gov/glenn/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "NASA Goddard Space Flight Center",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.nasa.gov/goddard/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "National Appeals Division",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.usda.gov/about-usda/general-information/staff-offices/office-hearings-and-appeals/national-appeals-division",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "National Energy Technology Laboratory",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 501-1000 employees",
+    "website": "https://netl.doe.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "National Geospatial-Intelligence Agency",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.nga.mil/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "National Highway Traffic Safety Administration, Region 8",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/National_Highway_Traffic_Safety_Administration",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "National Institute of Standards and Technology",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "National Institutes of Health, Department of Bioethics",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cc.nih.gov/bioethics",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "National Park Service/Great Basin Institute",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 10,001+ employees",
+    "website": "https://thegreatbasininstitute.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "National Reconnaissance Office (NRO)",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 5001-10,000 employees",
+    "website": "https://en.wikipedia.org/wiki/National_Reconnaissance_Office",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "National Security Agency",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/National_Security_Agency",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "National Transportation Safety Board",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/National_Transportation_Safety_Board",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "National Women's Law Center (Washington, DC)",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 51-200 employees",
+    "website": "https://en.wikipedia.org/wiki/National_Women's_Law_Center",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Naval Air Systems Command (NAVAIR)",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 5001-10,000 employees",
+    "website": "https://en.wikipedia.org/wiki/Naval_Air_Systems_Command",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Naval Facilities Engineering Command - Southwest",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://pacific.navfac.navy.mil/Facilities-Engineering-Commands/NAVFAC-Southwest/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Naval Nuclear Laboratory",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://navalnuclearlab.energy.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Naval Surface Warfare Center Carderock Division",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Naval_Surface_Warfare_Center_Carderock_Division",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Naval Surface Warfare Center Panama City Division",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Naval_Surface_Warfare_Center_Panama_City_Division",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Technology Division",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://unknown-technology.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "NAVSEA SURFACE WARFARE CENTER - INDIAN HEAD DIVISION",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Indian-Head/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "NAVSEA, Naval Surface Warfare Center, Dahlgren Division (NSWCDD)",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Naval_Surface_Warfare_Center_Dahlgren_Division",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "NC Department of Transportation",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 5001-10,000 employees",
+    "website": "https://www.ncdot.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Nebraska Public Power District (NPPD)",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.nppd.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "New Mexico Mining and Minerals Division",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 11-50 employees",
+    "website": "https://www.emnrd.nm.gov/mmd/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "NIOSH",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/National_Institute_for_Occupational_Safety_and_Health",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "NIOSH Mining Program",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 11-50 employees",
+    "website": "https://www.cdc.gov/niosh/mining/index.html",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "NobleReach",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 11-50 employees",
+    "website": "https://noblereach.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "North Carolina Office of Indigent Defense Services (Durham, NC)",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency",
+    "website": "https://www.ncids.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "NSWC Carderock Division",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/Carderock_Division_of_the_Naval_Surface_Warfare_Center",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Oak Ridge Associated Universities",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 501-1000 employees",
+    "website": "https://en.wikipedia.org/wiki/Oak_Ridge_Associated_Universities",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Oak Ridge National Laboratory",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 5001-10,000 employees",
+    "website": "https://www.ornl.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Office of Lieutenant Governor Barbara O'Brien",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Barbara_O'Brien",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Office of Mine Safety and Health",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.msha.gov/safety-and-health",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Office of National Drug Control Policy (ONDCP)",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency",
+    "website": "https://www.whitehouse.gov/ondcp/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Orange County Water District",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.ocwd.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "ORAU",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.orau.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Oregon Department of Environmental Quality",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.oregon.gov/DEQ/Pages/index.aspx",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "OWP (Office of Water Prediction)",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.weather.gov/owp/oh/index.html",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Peace Corps",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": null,
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Pearl Harbor Naval Shipyard & IMF",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 5001-10,000 employees",
+    "website": null,
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Redhorse Corporation",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": null,
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Republican National Committee",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": null,
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Salado Isolation Mining Contractors (SIMCO)",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 501-1000 employees",
+    "website": "https://simco-llc.us/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Sallyport Global Holdings",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.linkedin.com/company/sallyport-global/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Sandia National Laboratories",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Sandia_National_Laboratories",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Sarasota County Government",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency",
+    "website": "https://www.scgov.net/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Savannah River National Laboratory",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Savannah_River_National_Laboratory",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Senator Michael Bennet's Office",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Michael_Bennet",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Sherpa 6, Inc",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://sherpa6.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "SLAC National Accelerator Laboratory",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/SLAC_National_Accelerator_Laboratory",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "South Coast Air Quality Management District",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency",
+    "website": "https://www.aqmd.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "State of Minnesota",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 5001-10,000 employees",
+    "website": "https://mn.gov/portal/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "State of Utah-DNR-Division of Water Rights",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 51-200 employees",
+    "website": "https://www.waterrights.utah.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "State of WY - Human Resources Division",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://health.wyo.gov/admin/hr/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "State of Wyoming - Department of Environmental Quality",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 5001-10,000 employees",
+    "website": "https://deq.wyoming.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "State Water Resources Control Board",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.waterboards.ca.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Strategic Systems Programs",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.ssp.navy.mil/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Student Conservation Association",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 51-200 employees",
+    "website": "https://en.wikipedia.org/wiki/Student_Conservation_Association",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Summit County",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://summitcountyco.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Texas Department of Transportation",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.txdot.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Texas Water Development Board",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency",
+    "website": "https://www.twdb.texas.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "The White House",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Whitehouse.gov",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Third Way",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.thirdway.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Tonto National Forest",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Tonto_National_Forest",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Town of Avon",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "http://avon.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Town of Castle Rock",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.crgov.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Town of Eagle",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 51-200 employees",
+    "website": "https://www.townofeagle.org/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Town of Frederick, Colorado",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "http://frederickco.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Town of Georgetown",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "http://www.townofgeorgetown.us/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Town of Parker",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 501-1000 employees",
+    "website": "https://parkerco.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Town of Superior",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.superiorcolorado.gov/Home",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Town of Telluride",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 51-200 employees",
+    "website": "https://telluride.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Town of Vail",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.vail.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "Twin Platt Natural Resources District",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.nrdnet.org/nrds/twin-platte-nrd",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. Department of Energy",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/United_States_Department_of_Energy",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. Army Corps of Engineers - Construction Engineering Research Laboratory",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency",
+    "website": "https://www.erdc.usace.army.mil/Locations/CERL/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. Army Corps of Engineers, Omaha District",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.nwo.usace.army.mil/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. Census Bureau",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.census.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. Department of Defense",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/United_States_Department_of_Defense",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. Department of Labor",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 10,001+ employees",
+    "website": "https://www.usa.gov/agencies/u-s-department-of-labor",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. Department of State",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.state.gov/about/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. Department of Veterans Affairs",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.va.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "program",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.discovery.com/shows/expedition-unknown",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. Dept. of Interior, Bureau of Land Management",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Bureau_of_Land_Management",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. Energy Information Administration",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.eia.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. Food and Drug Administration",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/Food_and_Drug_Administration",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. General Services Administration",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 5001-10,000 employees",
+    "website": "https://www.usa.gov/agencies/general-services-administration",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. Geological Survey, Central Energy Resources Science Center",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 51-200 employees",
+    "website": "https://www.usgs.gov/centers/central-energy-resources-science-center",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. Geological Survey, Energy and Mineral Resources Mission Area",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 5001-10,000 employees",
+    "website": "https://www.usgs.gov/mission-areas/geology-energy-minerals",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. Geological Survey, Geologic Hazards Science Center, Hazards Development Team",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 11-50 employees",
+    "website": "https://www.usgs.gov/centers/geologic-hazards-science-center",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. Geological Survey, Geological Materials Repository",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 11-50 employees",
+    "website": "https://www.usgs.gov/geological-materials-repository",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. Geological Survey, Water Mission Area, Laboratory Analytical Services Division",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 51-200 employees",
+    "website": "https://www.usgs.gov/mission-areas/water-resources/laboratory-and-analytical-services-division",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. International Trade Commission",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/United_States_International_Trade_Commission",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "U.S. Naval Research Laboratory",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/United_States_Naval_Research_Laboratory",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "UNAVCO, Inc.",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/UNAVCO",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "United Nations",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.un.org/en/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "United States Geological Survey",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 5001-10,000 employees",
+    "website": "https://en.wikipedia.org/wiki/United_States_Geological_Survey",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "United States Patent and Trademark Office",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 10,001+ employees",
+    "website": "https://www.uspto.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "United States Space Command Intelligence",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.spacecom.mil/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Agency for International Development",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/United_States_Agency_for_International_Development",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Air Force Civil Service Careers",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://afciviliancareers.com/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Air Force Nuclear Weapons Center",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Air_Force_Nuclear_Weapons_Center",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Army Aviation & Missile Research, Development, and Engineering Center",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/U.S._Army_Aviation_&_Missile_Research,_Development_and_Engineering_Center",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Army Corps of Engineers",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.usace.army.mil/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Army Corps of Engineers--New Orleans District",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://www.mvn.usace.army.mil/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Army Corps of Engineers--Risk Management Center",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 51-200 employees",
+    "website": "https://www.rmc.usace.army.mil/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Chemical Safety Board",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/United_States_Chemical_Safety_and_Hazard_Investigation_Board",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Congress - Congressional Budget Office",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Congressional_Budget_Office",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Department of Agriculture",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 10,001+ employees",
+    "website": "https://en.wikipedia.org/wiki/United_States_Department_of_Agriculture",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Department of Energy - Environmental Management",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 5001-10,000 employees",
+    "website": "https://www.energy.gov/em/office-environmental-management",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Department of Energy, Office of Energy Efficiency and Renew",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Office_of_Energy_Efficiency_and_Renewable_Energy",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Department of Energy, Office of Legacy Management",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.energy.gov/lm/office-legacy-management",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Department of Labor: Mine Safety and Health Administration",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 501-1000 employees",
+    "website": "https://www.dol.gov/general/topic/safety-health/mining",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Department of State",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.state.gov/about/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Department of Transportation",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 201-500 employees",
+    "website": "https://www.transportation.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Dept. of Energy, Division of Energy and Minerals",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/United_States_Department_of_Energy",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Dept. of Interior, Bureau of Land Management - Colorado",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 10,001+ employees",
+    "website": "https://www.blm.gov/colorado",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Dept. of Interior, Bureau of Reclamation",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 5001-10,000 employees",
+    "website": "https://en.wikipedia.org/wiki/Bureau_of_Reclamation",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Dept. of Interior, Office of Inspector General",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/U.S._Department_of_the_Interior,_Office_of_Inspector_General",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Dept. of the Interior, Bureau of Safety and Environmental Enforcement (BSEE)",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bsee.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Dept. of Transportation",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 1001-5000 employees",
+    "website": "https://en.wikipedia.org/wiki/United_States_Department_of_Transportation",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Dept. of Transportation, Pipeline and Hazardous Material Safety Administration",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.phmsa.dot.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Drug Enforcement Administration",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.dea.gov/resources/drug-enforcement-administration",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Environmental Protection Agency (EPA)",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 201-500 employees",
+    "website": "https://www.epa.gov/",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Fish and Wildlife Service",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/United_States_Fish_and_Wildlife_Service",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Geological Survey",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 51-200 employees",
+    "website": "https://en.wikipedia.org/wiki/United_States_Geological_Survey",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  },
+  {
+    "company_name": "US Geological Survey - Crustal Geophysics and Geochemistry Science",
+    "industry": "Government/Public Sector",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.usgs.gov/centers/gggsc",
+    "matching_majors": [
+      "Civil Engineering",
+      "Environmental Science",
+      "Public Policy"
+    ]
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "company_name": "\"I Have a Dream\" Foundation of Boulder County",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.ihaveadreamboulder.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "ActivateWork",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 11-50 employees",
+    "website": "https://activatework.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Adventure Scientists",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.adventurescientists.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "American Boiler Manufacturers Association (ABMA)",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.abma.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "American Enterprise Institute",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/American_Enterprise_Institute",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "AmeriCorps NCCC",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/National_Civilian_Community_Corps",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "AmeriCorps VISTA - Young Adults for Positive Action",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://americorps.gov/serve/fit-finder/americorps-vista",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Archdiocese of Denver Montuary, Mount Olivet Cemetery",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cfcscolorado.org/mount-olivet-catholic-cemetery",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Archipelagos, Institute of Marine Conservation",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization",
+    "website": "https://archipelago.gr/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "ASPCA",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.aspca.org/about-us/contact-us",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Boulder Jewish Community Center",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.boulderjcc.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Boys & Girls Clubs of Metro Denver",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bgcmd.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Build Change",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://buildchange.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Boulder Jewish Community Center",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.boulderjcc.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Boys & Girls Clubs of Metro Denver",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.bgcmd.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Build Change",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://buildchange.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "City Year Denver",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cityyear.org/denver",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "CivicSpark",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization",
+    "website": "https://civicsparkfellowship.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Colorado Cleantech Industry Association",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.coloradocleantech.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Colorado Coalition for the Homeless",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.coloradocoalition.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Colorado Golf Association",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.coloradogolf.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Colorado Mountain Club",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cmc.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Colorado Nonprofit Development Center",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://cndc.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Colorado Resource Project",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.coloradoresourcenetwork.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Colorado Water Trust",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://coloradowatertrust.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Colorado Youth Corps Association",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.cyca.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Colorado Youth for a Change",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://youthforachange.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Community Resource Center",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://crcco.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Community Sailing of Colorado",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.communitysailing.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Compassion International",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Compassion_International",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "crees",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://creed.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cultural Vistas",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Cultural_Vistas",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Cupid's Undie Run",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.ctf.org/cupids/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Emma Bowen Foundation",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.emmabowenfoundation.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Engineering Ministries International",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://emiworld.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Engineers Without Borders USA",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://ewb-usa.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Environment Colorado",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://environmentamerica.org/colorado/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Environmental Defense Fund",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Environmental_Defense_Fund",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "EPRI",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization",
+    "website": "https://www.epri.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Everglades Foundation",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Everglades_Foundation",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Girls Who Invest (GWI)",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization",
+    "website": "https://www.girlswhoinvest.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Goodwill of Colorado",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 1001-5000 employees",
+    "website": "https://goodwillcolorado.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Habitat for Humanity International",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.habitat.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Healing Waters International",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 11-50 employees",
+    "website": "https://healingwaters.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Institute for Justice",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 51-200 employees",
+    "website": "https://en.wikipedia.org/wiki/Institute_for_Justice",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Lisle-Woodridge Fire",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.lwfd.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Longs Peak Council-BSA",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/?title=Longs_Peak_Council&redirect=no",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Loveland Ski Club",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 11-50 employees",
+    "website": "https://skiloveland.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mile High Youth Corps",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.milehighyouthcorps.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "National Association of Minority Mortgage Bankers (NAMMBA)",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.nammba.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "National Forest Foundation",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/National_Forest_Foundation",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "National Ski Areas Association",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://webstore.ansi.org/sdo/NSAA",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Natural Resources Defense Council",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Natural_Resources_Defense_Council",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Oregon Bus Project",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Next_Up_(organization)",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Para La Tierra",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 1-10 employees",
+    "website": "https://www.paralatierra.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Partnership for Public Service",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://ourpublicservice.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Repair the World",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 51-200 employees",
+    "website": null,
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Rocky Mountain Mechanical Contractors Association",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://rmmca.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Ronald McDonald House of Memphis",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://ronaldmcdonaldhouse.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Roundup River Ranch",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://roundupriverranch.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SRI International",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 1001-5000 employees",
+    "website": "https://www.sri.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Television Academy Foundation",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Private company with 51-200 employees",
+    "website": "https://www.televisionacademy.com/foundation",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Tennyson Center for Children",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.tennysoncenter.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Texas Native Health",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 11-50 employees",
+    "website": "https://texasnativehealth.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "The Civic Canopy",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.civiccanopy.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "The Colorado Health Foundation",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://coloradohealth.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "The Radler Foundation",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://urlm.co/www.radlerfoundation.org",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "The Trust for Public Land",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Trust_for_Public_Land",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "The Wilderness Society",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.wilderness.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "USA Wrestling",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/United_States",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Vail Valley Foundation",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://vvf.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Virginia Tech Applied Research Corporation",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.research.vt.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "WESTAF",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://teams.microsoft.com/v2/?skipauthstrap=1",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Western Research Institute",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 11-50 employees",
+    "website": "https://en.m.wikipedia.org/wiki/Western_(genre)",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Woodrow Wilson National Fellowship Foundation",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/Woodrow_Wilson",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Work for Progress",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization",
+    "website": "https://en.m.wikipedia.org/wiki/Work_(physics)",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Young Invincibles",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 11-50 employees",
+    "website": "https://en.m.wikipedia.org/wiki/Young",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "YouthWorks",
+    "industry": "Humanitarian/Non-Profits",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 11-50 employees",
+    "website": "https://dbm.maryland.gov/jobseekers/Pages/YouthWorks.aspx",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  }
+]

@@ -1,0 +1,822 @@
+[
+  {
+    "company_name": "ADAPT - Alliance for the Development of Additive Processing Technologies",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://adapt.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Admissions - SAFE Program",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://thesafeprogram.org/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bogus Burgers",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/List_of_fake_news_websites",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Bogus Burgers",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://en.wikipedia.org/wiki/List_of_fake_news_websites",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Colorado School of Mines Police Department",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://campussafety.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Minerals of America",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Private company with 11-50 employees",
+    "website": "https://mineralsofamerica.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Admissions",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 11-50 employees",
+    "website": "https://admissions.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Academic Affairs",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 1001-5000 employees",
+    "website": "https://academicaffairs.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Advanced Steel Products and Processing Research Center",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://aspprc.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Alumni",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://weare.mines.edu/s/840/19/interior.aspx?sid=840&gid=1&pgid=5803&cc=1",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Arthur Lakes Library",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 201-500 employees",
+    "website": "https://library.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Beck Venture Center",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 1-10 employees",
+    "website": "https://ventures.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Broadcasting Club",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://oreconnect.mines.edu/club_signup?view=all",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines CCAC (Colorado Center for Advanced Ceramics)",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://ceramics.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines CECS",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Center for Innovative Teaching & Learning",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://trefnycenter.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Chemistry Department",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 11-50 employees",
+    "website": "https://chemistry.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Civil and Environmental Engineering Department",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 1-10 employees",
+    "website": "https://cee.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines College of Applied Science & Engineering",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines College of Earth Resource Sciences and Engineering",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.mines.edu/academics/graduate-academics/earth-resources-science-and-engineering-mst/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines College of Engineering and Computational Sciences",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Communications and Marketing Department",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://brand.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Compliance",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.msha.gov/compliance-and-enforcement",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Computer Science Department",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://cs.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Continuing and Professional Education Services (CPES)",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://proed.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Controller's Office",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://controlleroffice.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Counseling Center",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://counseling.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Distribution Services",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://operations.mines.edu/distribution-services/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Economics & Business",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 11-50 employees",
+    "website": "https://econbus.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Electrical Engineering",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://electrical.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Engineering, Design and Society",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 1001-5000 employees",
+    "website": "https://eds.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Environmental Health & Safety Sustainability Office",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://ehs.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Facilities Management",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://facilitiesmanagement.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Financial Aid",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://finaid.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Geology & Geological Engineering",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 51-200 employees",
+    "website": "https://geology.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Geology Museum",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 11-50 employees",
+    "website": "https://en.wikipedia.org/wiki/Mines_Museum_of_Earth_Science",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Geophysics",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 1001-5000 employees",
+    "website": "https://geophysics.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Graduate School",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 11-50 employees",
+    "website": "https://graduatestudies.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Green Center Office of Events",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://greencenter.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Health Center",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 1-10 employees",
+    "website": "https://studenthealth.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Human Resources",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://hr.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Humanities, Arts & Social Sciences",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://hass.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Information and Technology Services ITS",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Non-Profit organization with 51-200 employees",
+    "website": "https://it.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Interdisciplinary Graduate Programs",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://catalog.mines.edu/graduate/programs/interdisciplinaryprograms/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines McBride Honors Program",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://mcbride.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines McNeil Center for Entrepreneurship and Innovation",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 1-10 employees",
+    "website": "https://mcneil.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Mechanical Engineering",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 5001-10,000 employees",
+    "website": "https://mechanical.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Metallurgical & Materials Engineering",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 1-10 employees",
+    "website": "https://metallurgy.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Mining Engineering",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://mining.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Multicultural Engineering Program",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1-10 employees",
+    "website": "https://mep.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines NIST PREP",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 1001-5000 employees",
+    "website": "https://nexus.mines.edu/nist-professional-research-experience-program/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Office of Compliance, Policy, and Risk Management",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 1-10 employees",
+    "website": "https://compliance.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Office of General Counsel",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://legal.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Office of Global Education",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 1-10 employees",
+    "website": "https://global.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Office of Global Initiatives & Business Development",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 201-500 employees",
+    "website": "https://globalinitiatives.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Office of Graduate Studies",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://graduatestudies.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Office of International Programs",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://international.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Office of Undergraduate Studies",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 1001-5000 employees",
+    "website": "https://undergraduatestudies.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Online",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://online-mines.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Oredigger",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://everyoredigger.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Outdoor Recreation Center",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Government agency with 51-200 employees",
+    "website": "https://studentexperience.mines.edu/outdoor-rec-center/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Parking - Fleet Services",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://parkingoffice.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines PASCAL Center",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 201-500 employees",
+    "website": "https://pascal.mines.edu/support-pascal/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Petroleum Engineering",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 11-50 employees",
+    "website": "https://petroleum.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Physical Education and Athletics",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 1-10 employees",
+    "website": "https://minesathletics.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Physics",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Public company with 1-10 employees",
+    "website": "https://physics.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Procurement Services-Purchasing",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://procurement.mines.edu/purchasing/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Public Safety",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://campussafety.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Registrar",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://registrar.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Research and Technology Transfer",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 11-50 employees",
+    "website": "https://research.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Student Activities (SAIL)",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://student-activities.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Student Housing/Residence Life",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://www.mines.edu/residence-life/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Student Life",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://student-life.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Student Recreation Center",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://minesathletics.com/facilities/student-recreation-center/13",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Title IX and Equity Compliance",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://oie.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Transportation/Ore Cart Shuttle Service",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://orecart.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Undergraduate Research",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://undergraduateresearch.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines WISEM and Diversity, Inclusion & Access",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://wisem.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Mines Writing Center",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Educational institution with 1-10 employees",
+    "website": "https://writing.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Sodexo - CSM Dining Services",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Other organization with 51-200 employees",
+    "website": "https://www.sodexo.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "SPACE",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://space-unknown.com/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  },
+  {
+    "company_name": "Teach@Mines",
+    "industry": "Mines Campus Department",
+    "location": "Unknown",
+    "company_type_size": "Unknown",
+    "website": "https://teacherprep.mines.edu/",
+    "matching_majors": [
+      "General Engineering & Business"
+    ]
+  }
+]
